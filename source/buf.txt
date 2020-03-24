@@ -1,0 +1,2789 @@
+      <!-- slide 1 -->
+      <section class="slide uniq1 bg1_1" id="slideNumber1">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <a href="#slideNumber2" class="uniq1__firstButton">
+          <svg>
+            <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+          </svg>
+        </a>
+        <div class="uniq1__content">
+          <h1 class="uniq1__title">Дайджест</h1>
+          <p class="uniq1__subtitle">новые технологии, тренды<br> и кейсы в digital-маркетинге</p>
+          <p class="uniq1__date">Март 2020</p>
+        </div>
+
+        <div class="slide__numof">
+          <p class="slide__cur">1</p>
+          <p class="slide__of">/ 2</p>
+        </div>
+      </section>
+      <!-- slide 2-->
+      <section class="slide template2 bg1_1" id="slideNumber2">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">КОРОТКО О НОВОМ ВЫПУСКЕ</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_bold mainP_mt0">
+              За март мир словно перевернулся с ног на голову, и сейчас люди как никогда нуждаются в хороших новостях,
+              согласитесь? Наш весенний дайджест – ваш источник позитива! Нововведения Вконтакте, Instagram, Facebook,
+              Яндекс.Директ и Google Ads порадуют новыми возможностями для вашего бизнеса, а примеры digital-кампаний
+              других брендов несомненно вдохновят вас на online-свершения!
+            </p>
+            <p class="mainP mainP_mt25">Познавайте новые тренды вместе с нами, но (обязательно!) дистанционно, и
+              берегите себя.
+            </p>
+          </div>
+          <!-- <div class="template2__right text-align_center">
+            <img src="images/my/2.png" alt="voice assistant" class="template2__img text-align_center">
+          </div> -->
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <div class="slide__numof">
+          <p class="slide__cur">1</p>
+          <p class="slide__of">/ 2</p>
+        </div>
+      </section>
+      <!-- slide 3 -->
+      <section class="slide template1 bg1_2" id="socialmediamarketing">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
+        <h2 class="template1__title">SMM</h2>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber2" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber4" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <div class="slide__numof slide__numof_pur">
+          <p class="slide__cur">3</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 4 -->
+      <section class="slide template2 bg1_2 slide4" id="slideNumber4">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ВКОНТАКТЕ ПРЕДСТАВИЛ ОБНОВЛЕННЫЙ «МАГАЗИН» ДЛЯ E-COMMERCE</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_bold mainP_mt0">ВКонтакте представляет новую платформу для e-commerce. Первым этапом
+              изменений стал запуск «Магазина 2.0». Все инструменты, которые нужны для продаж во Вконтакте, теперь
+              собраны вместе. Чтобы настроить магазин в своем сообществе, больше не придется подключать разные функции
+              по отдельности. Просто подключите «Магазин» в настройках.
+            </p>
+            <p class="mainP mainP_mt25">Все варианты товаров теперь будут отображаться в одной карточке – больше не
+              придется искать нужное, изучая весь ассортимент.
+            </p>
+            <p class="mainP mainP_bold mainP_mt25">Прямо из карточки можно:</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> написать продавцу;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> открыть его
+              мини-приложение;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> открыть форму сбора
+              заявок;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> перейти на внешний
+              сайт;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> добавить товар в
+              корзину;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> отслеживать статус
+              заказа;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> быстро написать в
+              поддержку и др.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/smm/1.jpg" alt="voice assistant" class="template2__img">
+            <a href="https://vk.com/business?w=wall-19542789_115744" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#socialmediamarketing" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber5" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.likeni.ru/events/vkontakte-dobavil-otmetki-nravitsya-v-istorii/" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">4</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 5-->
+      <section class="slide template3 bg1_2 slide5" id="slideNumber5">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">INSTAGRAM ГОТОВИТСЯ ЗАПУСТИТЬ «ВИДЕОРЕАКЦИИ» ДЛЯ
+          IGTV
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/smm/2.png" alt="instagram" class="template3__img slide5__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0 mainP_bold">В Instagram может появиться новая функция видеоответа для IGTV.
+              Функция «Видеореакции» (Video Reactions) позволит зрителям IGTV отвечать на контент своими собственными
+              видео. При этом авторы IGTV могут отключить или активировать новую опцию.</p>
+            <p class="mainP mainP_mt25">Похожая функция есть в TikTok. С ее помощью можно наложить видеореакцию на
+              исходный клип, предлагая пользователям новый способ взаимодействия с роликами. </p>
+            <a href="https://www.socialmediatoday.com/news/instagrams-testing-a-new-video-response-option-for-igtv/573407/"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.likeni.ru/events/vkontakte-dobavil-otmetki-nravitsya-v-istorii/" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 6 -->
+      <section class="slide template2 bg1_2" id="slideNumber6">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">FACEBOOK ПОЗВОЛИТ РЕПОСТИТЬ ИСТОРИИ В INSTAGRAM
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt25">Facebook тестирует возможность кросс-постинга историй в Instagram. Благодаря
+              этому пользователям станет проще поддерживать активность на обеих платформах и расширять охват Stories.
+            </p>
+            <p class="mainP mainP_mt25">Специалист по приложениям Джейн Манчун Вонг обнаружила новую функцию, которая
+              позволяет пользователям сделать репост истории из Facebook в Instagram в Android-версии приложения. Сейчас
+              пользователи Instagram могут репостить истории в Facebook, но поделиться историей из Facebook в Instagram
+              до сих пор было нельзя.</p>
+            <a href="https://techcrunch.com/2020/03/09/facebook-to-instagram-cross-posting/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/smm/3.jpg" alt="Facebook" class="template2__img text-align_center">
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 7 -->
+      <section class="slide template2 bg1_2 slide7" id="slideNumber7">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ВКОНТАКТЕ ПОЗВОЛИЛ ВЫНОСИТЬ БЛИЖАЙШИЕ МЕРОПРИЯТИЯ В ГЛАВНЫЙ БЛОК
+          СООБЩЕСТВА</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt25">ВКонтакте позволил выносить ближайшие мероприятия в главный блок сообщества.
+              Благодаря этому клиентам страниц будет проще узнать о распродажах, лекциях, презентациях и мастер-классах.
+            </p>
+            <p class="mainP mainP_mt25">Чтобы вынести ближайшие мероприятия в главный блок сообщества, необходимо
+              создать событие от имени страницы бизнеса и указать эту страницу в качестве организатора. Блок станет
+              главным автоматически. Изменить это можно в настройках сообщества.</p>
+            <a href="https://vk.com/business?w=wall-19542789_116117" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/smm/4.jpg" alt="vk" class="template2__img text-align_center slide7__img">
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 8 -->
+      <section class="slide template2 bg1_2 slide8" id="slideNumber8">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ВКОНТАКТЕ ЗАПУСТИТ СЕРВИС КОРОТКИХ ВИДЕО, ПОХОЖИЙ НА TIKTOK
+        </h2>
+        <div class="template2__content slide8__content">
+          <div class="template2__left slide8__left">
+            <p class="mainP mainP_mt25">По словам источника сайта VC.ru, во втором квартале 2020 года ВКонтакте
+              планирует запустить экспериментальный сервис коротких вертикальных видео. Тот же источник сообщает, что
+              разработчики вдохновлялись TikTok.</p>
+            <p class="mainP mainP_mt25">Рабочее название проекта – «Клипы». Сервис станет частью «суперприложения»,
+              которое развивает Mail.ru Group на базе ВКонтакте. В продвижении платформы будут задействованы лидеры
+              мнений и создатели профессионального контента.</p>
+            <p class="mainP mainP_mt25">В сервисе пользователи смогут редактировать видео, добавлять маски и эффекты.
+              Также он будет поддерживать технологии компьютерного зрения (управление жестами) и игры с технологией
+              дополненной реальности. В будущем соцсеть планирует запустить инструменты для монетизации авторского
+              контента.</p>
+            <p class="mainP mainP_mt25">Согласно презентации, новый сервис «Клипы» будет отображаться возле историй –
+              вертикальных фото и видео, расположенных в ленте новостей. Этот формат ВКонтакте развивает уже с 2016
+              года.</p>
+
+          </div>
+          <div class="template2__right text-align_center slide8__right">
+            <img src="images/my/smm/5.png" alt="vk" class="template2__img text-align_center slide8__img">
+            <a href="https://gorodfinansov.ru/istochnik-vkontakte-zapustit-eksperimentalnyj-servis-korotkih-video-v-duhe-tiktok-material-redaktsii.html"
+              target="_blank" class="button button_desktop slide8__button">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 9 -->
+      <section class="slide template2 bg1_2 slide9" id="slideNumber9">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ПРОДАЖИ ЧЕРЕЗ TELEGRAM ПРЕВЫСИЛИ 1 МЛРД РУБЛЕЙ В 2019 ГОДУ</h2>
+        <div class="template2__content slide9__content">
+          <div class="template2__left slide9__left">
+            <p class="mainP mainP_mt25">В 2019 году пользователи Telegram потратили на товары, купленные через
+              мессенджер, 1,1 млрд рублей. Это на 196% больше, чем в 2018 году, сообщает РБК со ссылкой на исследование
+              рекламной сети Admitad.</p>
+            <p class="mainP mainP_mt25">Аналитики компании просмотрели данные о 8 млн онлайн-заказов, сделанных через их
+              сеть в России за 2019 год. Оказалось, что количество онлайн-продаж через официально заблокированный в
+              России мессенджер Telegram выросло почти в 3 раза и составило 1,1 млрд рублей.</p>
+            <p class="mainP mainP_mt25">Общий объем продаж через традиционные онлайн-каналы в Admitad оценили в 86,4
+              млрд рублей. Продажи через новые каналы, куда входят блоги, соцсети, мессенджеры и YouTube, составили 8,3
+              млрд рублей в 2019 году.</p>
+            <p class="mainP mainP_mt25">Эксперты отмечают, что Telegram находится на третьем месте среди самых
+              популярных мессенджеров в России. Его опережают WhatsApp и Viber. Однако в этих мессенджерах пользователи
+              предпочитают общаться, а не совершать покупки, говорят в Admitad.</p>
+
+          </div>
+          <div class="template2__right text-align_center slide9__right">
+            <img src="images/my/smm/6_1.gif" alt="vk" class="template2__img text-align_center slide9__img1">
+            <img src="images/my/smm/6_2.jpg" alt="vk" class="template2__img text-align_center slide9__img2">
+            <a href="https://www.rbc.ru/business/28/02/2020/5e57ab2b9a7947adad525c0e" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 10 -->
+      <section class="slide template1 bg1_3" id="searchandcontext">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
+        <h2 class="template1__title">Search and<br> Context</h2>
+
+        <div class="slide__numof slide__numof_pur">
+          <p class="slide__cur">7</p>
+          <p class="slide__of">/ 52</p>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber9" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber11" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+      </section>
+
+
+
+
+      <!-- slide 8 -->
+      <section class="slide template2 bg1" id="slideNumber8">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ЯНДЕКС.ДИРЕКТ РАЗРЕШИЛ ОТКЛЮЧАТЬ РЕКЛАМУ НА ДЕСКТОПАХ
+          И УПРАВЛЯТЬ
+          ПОКАЗАМИ НА iOS И ANDROID</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_bold mainP_mt0">Теперь можно продвигать мобильные приложения или
+              специальные
+              предложения без
+              показов на десктопах, а также дополнительно разделить аудитории со смартфонами на iOS
+              и Android.</p>
+            <p class="mainP mainP_mt25">Можно отключить на выбор или iOS, или Android, и исключить
+              пользователей
+              десктопа.
+              Корректировка на все смартфоны по-прежнему доступна в диапазоне от -50% до +1200%.
+              Настроить более гибкие
+              корректировки можно уже сейчас.</p>
+            <a href="https://yandex.ru/adv/news/natselivanie-na-polzovateley-smartfonov-teper-i-v-performanse"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/8.png" alt="voice assistant" class="template2__img">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#socialmediamarketing" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber5" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://yandex.ru/adv/news/natselivanie-na-polzovateley-smartfonov-teper-i-v-performanse"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">4</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 9 -->
+      <section class="slide template5 bg2 slide9" id="slideNumber9">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template5__title mainTitle">ЯНДЕКС.ДИРЕКТ ЗАПУСТИЛ В ОТКРЫТУЮ БЕТУ ПРОДВИЖЕНИЕ
+          ВИДЕОКОНТЕНТА</h2>
+        <div class="template5__content template5_mt15">
+          <div class="template5__row">
+            <p class="template5__col mainP">В кампании «Продвижение контента» в Яндекс.Директе
+              появилась новая площадка
+              для размещения —
+              Яндекс.Видео. Рекламные ролики будут показываться в отдельном блоке над поисковой
+              выдачей Яндекс.Видео по
+              релевантным
+              запросам, оплата за клик.</p>
+            <div class="template5__col text-align_center">
+              <img src="images/my/9_1.gif" alt="gif" class="template5__colImg slide9__img">
+            </div>
+          </div>
+          <div class="template5__row template5_mt15">
+            <div class="template5__col">
+              <p class="mainP">Инструмент поможет увеличить охват видеоконтента,
+                вырастить знание о
+                продукте или услуге, а так же
+                создать эмоциональную связь с аудиторией.
+                Потестировать бета-версию и начать продвигать видеоконтент можно уже сейчас.</p>
+              <a href="https://yandex.ru/adv/news/prodvizhenie-videokontenta-v-yandeks-direkte-v-otkrytoy-bete"
+                target="_blank" class="button button_desktop">Смотреть</a>
+            </div>
+
+            <div class="template5__col text-align_center">
+              <img src="images/my/9_2.jpg" alt="gif" class="template5__colImg slide9__img">
+            </div>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://yandex.ru/adv/news/prodvizhenie-videokontenta-v-yandeks-direkte-v-otkrytoy-bete"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 10-->
+      <section class="slide template3 bg1" id="slideNumber10">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">ЯНДЕКС.ДИРЕКТ УЛУЧШИЛ
+          НАСТРОЙКИ ТАРГЕТИНГА НА
+          РЕГИОНЫ</h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/10.png" alt="yandex direct" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0 mainP_bold">Теперь работа геотаргетинга стала прозрачнее
+              и гибче.
+              Указать регионы
+              показов объявлений теперь можно на уровне отдельных групп, редактирование на уровне
+              кампаний больше
+              недоступно.
+              Вносить изменения можно массово или частично на группы внутри одной или нескольких
+              кампаний.</p>
+            <p class="mainP mainP_mt25">Корректировки на геотаргетинг перешли в блок «Корректировки
+              ставок». Теперь все
+              нужные
+              корректировки можно настроить в одном месте на странице редактирования кампании.</p>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://yandex.ru/adv/news/prezhnie-vozmozhnosti-v-novom-dizayne-uluchshennaya-stranitsa-tekstovo-graficheskikh-kampaniy-i-novoe-v-interfeyse-yandeks-direkta"
+          target="_blank" class="button button_desktop">Смотреть</a>
+        <a href="https://yandex.ru/adv/news/prezhnie-vozmozhnosti-v-novom-dizayne-uluchshennaya-stranitsa-tekstovo-graficheskikh-kampaniy-i-novoe-v-interfeyse-yandeks-direkta"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 11-->
+      <section class="slide template2 bg2 slide11" id="slideNumber11">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ЯНДЕКС.ДИРЕКТ: РЕЦЕПТ ЭФФЕКТИВНОГО КРЕАТИВА ДЛЯ
+          ВИДЕОРЕКЛАМЫ — МНЕНИЯ
+          ЭКСПЕРТОВ</h2>
+        <p class="mainP mainP_bold mainP_mt25">Digital — это очень динамичная среда, в которой
+          пользователь может
+          пропустить видеоролик или отвлечься от него на другой медиаконтент. Эксперты рекомендуют:
+        </p>
+        <div class="template2__content slide11__content">
+          <div class="template2__left">
+            <p class="mainP mainP_ml20 slide11__listItem"><span class="listDot slide11__listDot"></span>
+              запускать
+              более
+              короткие ролики (до
+              15-20 секунд).</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide11__listItem"><span class="listDot slide11__listDot"></span>
+              создавать несколько
+              вариантов роликов и
+              таргетироваться на разные
+              аудитории, показывать
+              продолжение истории тем, кто досмотрел ролик до конца;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide11__listItem"><span class="listDot slide11__listDot"></span>
+              помнить о том, что
+              серия роликов дает
+              лучшие
+              результаты, чем одно
+              базовое видео;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide11__listItem"><span class="listDot slide11__listDot"></span>
+              использовать
+              интерактив (запоминаемость
+              интерактивных
+              роликов в
+              1,5 раза лучше);</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide11__listItem"><span class="listDot slide11__listDot"></span>
+              оценивать несколько
+              креативов в рамках
+              A/B-тестирования;</p>
+            <p class="mainP mainP_mt25"><span class="mainP_bold">Тренды для видеокреативов:</span>
+              востребована
+              абсурдность формы; на волне моды на 90-е остается в
+              тренде привлечение звезд того времени, музыки, образов; сторителлинг - контент в форме
+              историй, который
+              ценен сам по
+              себе, но создан благодаря участию бренда.</p>
+          </div>
+          <div class="template2__right text-align_center text-align_center">
+            <img src="images/my/11.png" alt="voice assistant" class="template2__img">
+            <a href="https://yandex.ru/adv/news/retsept-effektivnogo-kreativa-dlya-videoreklamy-ekspertnoe-mnenie"
+              target="_blank" class="button button_desktop slide11_buttonSm">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://yandex.ru/adv/news/retsept-effektivnogo-kreativa-dlya-videoreklamy-ekspertnoe-mnenie"
+          target="_blank" class="button button_mobile slide11_buttonXs">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 12-->
+      <section class="slide template2 bg1 slide12" id="slideNumber12">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ЯНДЕКС.ДИРЕКТ ТЕСТИРУЕТ ПЯТЬ ОБЪЯВЛЕНИЙ НАД
+          РЕЗУЛЬТАТАМИ ПОИСКА</h2>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP">На данный момент проводится тестирование на ограниченном количестве
+              рекламодателей, пять
+              объявлений
+              отображается, если первое объявление не показывается в расширенном формате (с быстрыми
+              ссылками
+              с описаниями).</p>
+            <p class="mainP mainP_mt25">Если тест покажет хорошие результаты, то, вероятно, такой
+              вариант выдачи будет
+              принят для
+              постоянных
+              показов. О результатах тестирования Яндекс сообщит позднее.</p>
+            <a href="https://ppc.world/news/yandeks-testiruet-pyat-obyavleniy-nad-rezultatami-poiska/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center text-align_center">
+            <img src="images/my/12.png" alt="voice assistant" class="template2__img slide12__img">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://ppc.world/news/yandeks-testiruet-pyat-obyavleniy-nad-rezultatami-poiska/" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 13-->
+      <section class="slide template3 bg2" id="slideNumber13">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">GOOGLE ADS: ТОВАРНЫЕ
+          ОБЪЯВЛЕНИЯ НАЧНУТ ПОКАЗЫВАТЬ
+          В GMAIL</h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/13.png" alt="yandex direct" class="template3__img">
+            <a href="https://ppc.world/news/tovarnye-obyavleniya-google-nachnut-pokazyvatsya-vgmail/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt25 mainP_mt0 mainP_bold">Google начнет показывать товарные
+              объявления в Gmail
+              с 4 марта, что
+              позволит охватывать пользователей по всей воронке продаж. Рекламодатели смогут выбрать
+              Gmail
+              для стандартных товарных
+              объявлений и объявлений-витрин в качестве плейсмента наравне с YouTube и Discoverу
+              Feed. При управлении
+              торговыми
+              кампаниями через Google Ads API или AdWords API, можно будет включить или отключить
+              показы в этих
+              плейсментах в
+              настройках.</p>
+            <p class="mainP mainP_mt25">Google объединит показатели эффективности рекламы на
+              YouTube, Gmail и Discover в
+              отчетах по
+              контекстно-медийной сети.</p>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://ppc.world/news/tovarnye-obyavleniya-google-nachnut-pokazyvatsya-vgmail/" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 14-->
+      <section class="slide template2 bg1 slide14" id="slideNumber14">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">GOOGLE ADS: УЛУЧШЕННЫЙ РАВНОМЕРНЫЙ ПОКАЗ ОБЪЯВЛЕНИЙ
+        </h2>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_bold">С апреля 2020 г. рекламодатели смогут использовать только
+              равномерный показ
+              рекламы для новых медийных,
+              умных кампаний в КМС, кампаний для приложений и видеокампаний. Торговые и поисковые
+              кампании были
+              переключены
+              на равномерный показ первыми в октябре 2019 г.</p>
+            <p class="mainP mainP_mt25">При равномерном методе показа учитывается ожидаемая
+              эффективность рекламы
+              в течение дня, что
+              делает ее более подходящей для достижения максимальных результатов в рамках
+              ежедневного бюджета.</p>
+            <p class="mainP mainP_mt25">Google рекомендует использовать расписание показов для
+              управления показами
+              рекламы в течение
+              дня. А для увеличения эффективности — подключить стратегии «Максимальная конверсия»,
+              «Максимальная
+              ценность конверсии»
+              или «Максимальное количество кликов». Это позволит кампании оставаться в рамках
+              дневного бюджета.</p>
+
+          </div>
+          <div class="template2__right text-align_center text-align_center">
+            <img src="images/my/14.png" alt="voice assistant" class="template2__img slide12__img">
+            <a href="https://support.google.com/google-ads/answer/9712796" target="_blank"
+              class="button button_desktop slide14_buttonSm">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://support.google.com/google-ads/answer/9712796" target="_blank"
+          class="button button_mobile slide14_buttonXs">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 15 -->
+      <section class="slide template1" id="media">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
+        <img src="images/my/logo_nectarin_2.png" alt="logo nectarin" class="slide__logo slide__logo_big">
+        <h2 class="template1__title">Media</h2>
+
+        <div class="slide__numof slide__numof_pur">
+          <p class="slide__cur">7</p>
+          <p class="slide__of">/ 52</p>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber9" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber11" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+      </section>
+      <!-- slide 16-->
+      <section class="slide template2 bg1" id="slideNumber16">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">MAIL.RU GROUP И СЕРВИС ЮЛА ЗАПУСТИЛИ НОВЫЙ ФОРМАТ
+          РЕКЛАМЫ — КРЕДИТНУЮ
+          КНОПКУ</h2>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP">Формат разработан специально для финансовых компаний и позволит
+              продвигать предложения по
+              кредитам в контексте тех товаров, покупку которых пользователи уже рассматривают на
+              площадке. Формат
+              доступен для всех
+              категорий и подкатегорий товаров в desktop и mobile.</p>
+            <a href="https://target.my.com/pro/news/new-format-credit-buttons" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center text-align_center">
+            <img src="images/my/16.jpg" alt="voice assistant" class="template2__img">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://target.my.com/pro/news/new-format-credit-buttons" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 17-->
+      <section class="slide template3 bg2" id="slideNumber17">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">НОВАЯ ПЛАТФОРМА HAPPY MONDAY
+          FAMILY — DOUBLE
+          SCREEN</h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/17.png" alt="yandex direct" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP">Платформа позволяет размещать рекламу на премиальных площадках с
+              применением социально-демографических и аудиторных таргетингов. На данный момент
+              доступно шесть мобильных
+              и десктопных
+              интерактивных форматов. К примеру, In-read ролик дополняется анимацией, описанием
+              продукта и возможностью
+              показать
+              пользователю CTA элементы. Это позволяет улучшить метрики видимости, вовлеченности,
+              CTR.</p>
+            <a href="https://www.sostav.ru/publication/lexus-v-partnerstve-s-dentsu-protestirovali-novuyu-reklamnuyu-platformu-happy-monday-family-double-screen-41918.html"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.sostav.ru/publication/lexus-v-partnerstve-s-dentsu-protestirovali-novuyu-reklamnuyu-platformu-happy-monday-family-double-screen-41918.html"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 18-->
+      <section class="slide template2 bg1" id="slideNumber18">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">MAIL.RU GROUP ЗАПУСТИЛА ВОЗМОЖНОСТЬ РАЗМЕЩЕНИЯ
+          РЕКЛАМЫ В ПРЯМЫХ
+          ТРАНСЛЯЦИЯХ</h2>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP">Сервис DonationAlerts, который входит в Mail.ru Group, запустил
+              инструмент для размещения
+              рекламы в
+              стримах, проводимых на Twitch, YouTube, Facebook, во «ВКонтакте» и «Одноклассниках».
+            </p>
+            <p class="mainP">Суть инструмента в следующем: если во время трансляций зритель
+              переходит по ссылке из
+              прямого эфира на
+              сайт компании и совершает покупку, стример и сервис получают комиссию с продажи.
+              Эксперты отмечают, что
+              это будет
+              аналогом биржи блогеров с возможностью размещения рекламы без посредников в
+              полуавтоматическом режиме.</p>
+          </div>
+          <div class="template2__right text-align_center text-align_center">
+            <img src="images/my/18.jpeg" alt="voice assistant" class="template2__img">
+            <a href="https://www.kommersant.ru/doc/4242131" target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.kommersant.ru/doc/4242131" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 19-->
+      <section class="slide template2 bg2 slide19" id="slideNumber19">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">GPMD ЗАИНТЕРЕСОВАЛСЯ МИКРОБЛОГЕРАМИ ИЗ INSTAGRAM</h2>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP">Селлер стал эксклюзивным партнёром платформы MNFST, которая позволяет
+              обычным пользователям
+              выступать в
+              роли бренд-амбассадоров и монетизировать свой социальный профиль. Рекламодатели могут
+              следить за ходом
+              рекламной
+              кампании в режиме реального времени. При этом искусственный интеллект позволяет
+              контролировать
+              мошеннический трафик
+              (fraud) и показатель безопасности бренда (brand safety).</p>
+            <a href="https://www.cossa.ru/news/257673/" target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center text-align_center">
+            <img src="images/my/19.png" alt="voice assistant" class="template2__img slide19_img">
+            <a href="https://www.cossa.ru/news/257673/" target="_blank" class="button button_mobile">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 20-->
+      <section class="slide template3 bg1" id="slideNumber20">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">MAIL.RU ЗАПУСТИЛА
+          РЕКОМЕНДАТЕЛЬНУЮ СИСТЕМУ
+          КОНТЕНТА «ПУЛЬС»</h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/20.jpeg" alt="yandex direct" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP">Mail.Ru запустила бета-версию рекомендательной системы «Пульс», которая
+              предлагает
+              пользователям
+              контент с учётом их интересов. Персонализация работает на базе технологий машинного
+              обучения. На текущий
+              момент лента
+              работает с контентом из порядка 1500 источников, прошедших редакторскую проверку. В
+              ближайшее время
+              планируется
+              включить в выдачу и другие форматы, среди которых видео, фото и пользовательский
+              контент.</p>
+            <a href="https://corp.mail.ru/ru/press/releases/10374/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://corp.mail.ru/ru/press/releases/10374/" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 21-->
+      <section class="slide template2 bg2 slide21" id="slideNumber21">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">МЕГАФОН ЗАПУСТИЛ СЕРВИС ТАРГЕТИРОВАННОЙ SMS-РЕКЛАМЫ
+          МЕГАФОН ТАРГЕТ</h2>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_bold">МегаФон сделал свой сервис рассылок МегаФон Таргет, через
+              который можно
+              отправлять сообщения как
+              по своей клиентской базе, так и по базе оператора (70 млн абонентов).</p>
+            <p class="mainP mainP_mt25">Причём настроить всё можно самому. В МегаФон Таргет вы сами
+              создаёте рекламные
+              кампании по своей или
+              операторской базе, выставляя настройки таргетинга и составляя тексты сообщений. Всё
+              делается в личном
+              кабинете в
+              браузере. Начать можно хоть с 1–2 SMS, для старта оплатив подпись отправителя (1000
+              рублей).</p>
+            <a href="https://www.cossa.ru/trends/249497/" target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center text-align_center">
+            <img src="images/my/21.gif" alt="voice assistant" class="template2__img slide19_img">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.cossa.ru/trends/249497/" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 22-->
+      <section class="slide template3 bg1 slide22" id="slideNumber22">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">ЧЕТВЕРТЬ РОССИЙСКОЙ МОЛОДЕЖИ
+          СЛУШАЕТ ПОДКАСТЫ</h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/22_1.png" alt="yandex direct" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP">Среди россиян 18-34 лет аудитория подкастов достигла 26%, согласно
+              опросу ВЦИОМ. Чаще всего россияне слушают подкасты дома (59%), в личном транспорте
+              (37%) или в
+              общественных местах
+              (22%).</p>
+            <a href="https://adindex.ru/news/researches/2020/02/13/279526.phtml" target="_blank"
+              class="button button_desktop">Смотреть</a>
+            <div class="slide22__imgDiv">
+              <img src="images/my/22_2.gif" alt="girl" class="slide22__img">
+            </div>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://adindex.ru/news/researches/2020/02/13/279526.phtml" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 23-->
+      <section class="slide template2 bg2 slide23" id="slideNumber23">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">DIGITAL 2020: ГЛОБАЛЬНЫЙ ОТЧЕТ О ЦИФРАХ И ТРЕНДАХ
+          ИНТЕРНЕТА</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_bold">Количество пользователей Интернета в России выросло на 5% в
+              сравнении с прошлым
+              годом
+              (проникновение 2020 81%).</p>
+            <p class="mainP mainP_mt25">Создавать несколько вариантов роликов и таргетироваться на
+              разные аудитории,
+              показывать
+              продолжение истории тем, кто досмотрел ролик до конца.</p>
+            <p class="mainP mainP_mt25">Ежедневно россияне проводят в Интернете более 7 часов в день
+              (или более 100 дней
+              в году).</p>
+            <p class="mainP mainP_mt25">Смартфон – стал основным каналом использования Интернета
+              (более 50% времени в
+              Интернете
+              приходится на mobile).</p>
+            <p class="mainP mainP_mt25">Примерно половину из 3,7 часов в день, которые люди проводят
+              с мобильными
+              в руках, они
+              тратят на приложения социальных сетей и мессенджеры.</p>
+          </div>
+          <div class="template2__right text-align_center text-align_center">
+            <img src="images/my/23.png" alt="voice assistant" class="template2__img slide23__img">
+            <a href="https://datareportal.com/reports/digital-2020-global-digital-overview" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://datareportal.com/reports/digital-2020-global-digital-overview" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 24-->
+      <section class="slide template3 bg1 slide24" id="slideNumber24">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">КОРОНАВИРУС: РАБОТА ВО ВРЕМЯ
+          КРИЗИСА</h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center slide24__left">
+            <img src="images/my/24_1.png" alt="yandex direct" class="template3__img slide24__img">
+            <img src="images/my/24_2.png" alt="yandex direct" class="template3__img slide24__img">
+          </div>
+          <div class="template3__right slide24__right">
+            <p class="mainP mainP_bold">Коронавирус стал эпидемией, которая подкосила международный
+              рынок.</p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> Паника на биржах:
+              акции самых дорогих
+              компаний США
+              (Apple, Facebook, Amazon,
+              Microsoft и Alphabet) подешевели более чем на 200 млрд долларов.</p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> Снижение экспорта в
+              Китай (крупнейший
+              потребительский
+              рынок).</p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> Остановка рабочих
+              процессов в Китае, в
+              т.ч.
+              производства товаров международных
+              компаний, чт вызвало дефицит различной продукции (от техники до бытовой химии).</p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> Проблемы с
+              логистикой товаров: многие
+              компании заявили
+              о задержках в доставке
+              товаров (в т.ч. AliExpress).</p>
+            <p class="mainP mainP_bold mainP_mt25">Но для некоторых компаний коронавирус дал
+              положительный эффект.</p>
+            <p class="mainP mainP_mt25">В первую очередь это касается e-commerce: локальные
+              online-магазины, магазины,
+              представляющие
+              бренды для защиты здоровья и поддержки иммунитета (например, online-продажи
+              дезинфицирующих средств,
+              производимых
+              компанией Dettol, принадлежащей Reckitt Benckiser, выросли на 643% в годовом
+              исчислении в период с 10 по
+              13 февраля).
+            </p>
+            <a href="https://digiday.com/marketing/coronavirus-outbreak-grinds-e-commerce-operations-buckle-increased-pressure/"
+              target="_blank" class="button button_desktop slide24_buttonMd">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://digiday.com/marketing/coronavirus-outbreak-grinds-e-commerce-operations-buckle-increased-pressure/"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 25-->
+      <section class="slide template2 bg2 slide25" id="slideNumber25">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ИССЛЕДОВАНИЕ NIELSON: TECH-TRANSFORMED CONSUMPTION
+        </h2>
+        <p class="mainP mainP_mt25 mainP_bold">Если компания не хочет потерять покупателей, то она
+          должна учитывать
+          пользовательский опыт и ожидания
+          аудитории.</p>
+        <div class="template2__content slide25__content">
+          <div class="template2__right text-align_center slide25__right">
+            <p class="mainP mainP_bold">Исследование Nielson выявило, чего ждут пользователи от
+              современных технологий:
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> технологии должны
+              облегчить их жизнь;
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span>
+              realtime-реагирование;</p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> иммерсивность;</p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> персонализация.</p>
+            <img src="images/my/25.jpeg" alt="voice assistant" class="template2__img slide25__img">
+          </div>
+          <div class="template2__left slide25__left">
+            <p class="mainP mainP_bold">Чтобы соответствовать ожиданиям аудитории, компаниям стоит
+              обратить свой взгляд
+              на
+              пользовательские тренды:</p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> активный
+              online-шопинг (в 2020 году
+              ожидается рост
+              количества покупателей на
+              20%);</p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> дополненная
+              реальность (51% готовы
+              использовать AR/VR
+              технологии при шопинге);
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10"><span class="listDot"></span> умные помощники (в
+              2019г. рост
+              количества
+              пользователей составил 82%; 42%
+              покупателей готовы использовать умных помощников для автоматизации покупок).</p>
+            <a href="https://www.nielsen.com/us/en/insights/article/2020/the-future-awaits-tech-transformed-consumption/"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.nielsen.com/us/en/insights/article/2020/the-future-awaits-tech-transformed-consumption/"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 26-->
+      <section class="slide template3 bg1" id="slideNumber26">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">РАЗРАБОТКА СИСТЕМЫ
+          КРОСС-АНАЛИТИКИ</h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/26.png" alt="yandex direct" class="template3__img">
+            <a href="https://digiday.com/marketing/pg-unilever-join-forces-platforms-lead-latest-cross-media-measurement-push/"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0 mainP_bold">В октябре 2019 WFA (Всемирная федерация
+              рекламодателей)
+              начала работу
+              над созданием единой системы кросс-аналитики медиа-каналов.</p>
+            <p class="mainP mainP_mt25">Помимо крупных рекламодателей (P&G, Unilever и др.), в
+              команду по разработке
+              системы также
+              вошли крупные медиа-холдинги (Google, Facebook, Twitter и др.). </p>
+            <p class="mainP mainP_mt25">В следующем месяце WFA анонсирует систему глобальных
+              принципов прозрачности,
+              аналитики,
+              отчетности и сбора различных данных.</p>
+            <p class="mainP mainP_mt25">В будущем данная система станет основой, которую будут
+              использовать все игроки
+              рынка для
+              реализации кросс-медийных измерительных решений.</p>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://digiday.com/marketing/pg-unilever-join-forces-platforms-lead-latest-cross-media-measurement-push/"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 27 -->
+      <section class="slide template1" id="searchandoptimization">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
+        <img src="images/my/logo_nectarin_2.png" alt="logo nectarin" class="slide__logo slide__logo_big">
+        <h2 class="template1__title">SEARCH AND<br>OPTIMIZATION</h2>
+
+        <div class="slide__numof slide__numof_pur">
+          <p class="slide__cur">7</p>
+          <p class="slide__of">/ 52</p>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber9" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber11" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+      </section>
+      <!-- slide 28-->
+      <section class="slide template6 bg1" id="slideNumber28">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template6__title mainTitle template6__title_right">GOOGLE ЗАПУСТИЛ ОБНОВЛЕНИЕ
+          АЛГОРИТМА ЛОКАЛЬНОГО
+          ПОИСКА</h2>
+
+        <div class="template6__content">
+          <div class="template6__left">
+            <p class="mainP">Западные специалисты предполагают, что Google запустил обновление
+              алгоритма локального поиска. Изменения коснулись ранжирования местных компаний в
+              Google Local Pack и в
+              Google Картах.
+              Колебания начались 14 февраля и продолжаются до сих пор.</p>
+            <p class="mainP mainP_mt25">Апдейт алгоритма локального поиска активно обсуждают
+              западные SEO-специалисты на
+              форумах. Колебания
+              выдачи зафиксировал и инструмент BrightLocal Local Rankflux.</p>
+            <img src="images/my/28.png" alt="yandex direct" class="template6__img mainP_mt25">
+          </div>
+          <div class="template6__right">
+            <p class="mainP mainP_bold">Одна из сотрудниц BrightLocal отметила:</p>
+            <p class="mainP mainP_mt25">«По сравнению с «обычным» днем (24/1, чтобы понимать
+              контекст) вероятность того,
+              что
+              компании останутся на тех же позициях, что занимали вчера, стала на 50% ниже. Обычно
+              35-55% не видят
+              никаких
+              изменений, но сегодня их было только 26%. Кроме того, большее количество организаций
+              столкнулось с
+              заметным падением
+              позиций (более чем на 10 пунктов)… На 90% увеличилось количество бизнесов, которые
+              улучшили свои позиции
+              на 10+
+              пунктов».</p>
+            <p class="mainP mainP_mt25">Чтобы оценить масштаб изменений, эксперты рекомендуют
+              подождать несколько дней.
+            </p>
+            <a href="https://www.seroundtable.com/google-local-algorithm-update-29011.html" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.seroundtable.com/google-local-algorithm-update-29011.html" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 29 -->
+      <section class="slide template5 bg2" id="slideNumber29">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template5__title mainTitle">GOOGLE ТЕСТИРУЕТ НОВЫЙ ДИЗАЙН ДОМАШНЕЙ СТРАНИЦЫ</h2>
+        <div class="template5__content template5_mt15">
+          <div class="template5__row">
+            <p class="template5__col mainP">Google тестирует новый дизайн домашней страницы.
+              Нововведение заметили
+              западные
+              пользователи поиска. Среди главных изменений: синий фон у кнопки «Поиск в Google»,
+              синий шрифт на белой
+              кнопке «Мне
+              повезет» и отдельно вынесенная за поисковую строку кнопка микрофона. </p>
+            <div class="template5__col text-align_center">
+              <img src="images/my/29_1.png" alt="gif" class="template5__colImg">
+            </div>
+          </div>
+          <div class="template5__row template5_mt15">
+            <div class="template5__col">
+              <p class="mainP">На верхнем изображении продемонстрирована домашняя
+                страница сейчас, а на
+                нижнем, —
+                тестовая страница.</p>
+              <a href="https://www.seroundtable.com/google-testing-new-home-page-design-28995.html" target="_blank"
+                class="button button_desktop">Смотреть</a>
+            </div>
+            <div class="template5__col text-align_center">
+              <img src="images/my/29_2.png" alt="gif" class="template5__colImg">
+            </div>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.seroundtable.com/google-testing-new-home-page-design-28995.html" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 30-->
+      <section class="slide template6 bg1 slide30" id="slideNumber30">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template6__title mainTitle template6__title_right">В ЯНДЕКС.ВЕБМАСТЕРЕ ПОЯВИЛСЯ
+          РАЗДЕЛ «ПРЕДСТАВЛЕНИЕ
+          В ПОИСКЕ»</h2>
+
+        <div class="template6__content">
+          <div class="template6__left text-align_center">
+            <img src="images/my/30_1.jpeg" alt="yandex direct" class="template6__img slide30__img">
+            <img src="images/my/30_2.gif" alt="yandex direct" class="template6__img mainP_mt25 slide30__img">
+          </div>
+          <div class="template6__right">
+            <p class="mainP">В Яндекс.Вебмастере появился новый раздел «Представление в поиске». В
+              нем вебмастера могут
+              найти информацию об элементах поисковой выдачи, которые помогают улучшить отображение
+              сайта в поиске:
+              специальных
+              ответах и сниппетах.</p>
+            <p class="mainP mainP_mt25">Специальные ответы отображаются в отдельном блоке: в полной
+              версии сайта справа
+              от
+              результатов поиска, в мобильной версии – над или между ними. Сниппет (блок с описанием
+              страницы сайта)
+              выводится в
+              результатах поиска и позволяет получить представление о странице, не заходя на сайт.
+            </p>
+            <p class="mainP mainP_mt25">В Вебмастере Яндекс подробно рассказывает, как формируется
+              заголовок и описание,
+              что такое
+              фавиконка, какие специальные знаки использует Яндекс, что требуется для быстрых ссылок
+              и многое другое.
+            </p>
+            <a href="https://webmaster.yandex.ru/blog/kak-uluchshit-predstavlenie-svoego-sayta-v-poiske" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://webmaster.yandex.ru/blog/kak-uluchshit-predstavlenie-svoego-sayta-v-poiske" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 31-->
+      <section class="slide template6 bg2 slide31" id="slideNumber31">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template6__title mainTitle template6__title_right">GOOGLE: AMP-ВЕРСИЯ ДОЛЖНА БЫТЬ
+          ЭКВИВАЛЕНТНА
+          ОБЫЧНОЙ ВЕРСИИ СТРАНИЦЫ
+        </h2>
+
+        <div class="template6__content">
+          <div class="template6__left">
+            <p class="mainP mainP_bold">AMP-версия страницы должна быть такой же, как и основная
+              мобильная версия этой
+              страницы. Об
+              этом сообщил сотрудник Google Джон Мюллер в Twitter.
+            </p>
+            <p class="mainP mainP_mt25">Он заметил, что если на сайте есть раздел с комментариями,
+              то в идеале эти
+              комментарии должны присутствовать и в AMP-версии. Технически, отсутствие комментариев
+              в AMP-версии не
+              является ошибкой «несоответствия контента», но лучше, если страницы AMP-версии и
+              мобильной версии будут
+              эквивалентны.
+            </p>
+            <img src="images/my/31_1.jpeg" alt="yandex direct" class="template6__img mainP_mt25 slide31_img">
+          </div>
+          <div class="template6__right">
+            <p class="mainP mainP_bold">
+              «Пользователи хотят, чтобы AMP-страницы были эквивалентны обычным страницам, поэтому
+              если, комментарии
+              являются важной частью ваших страниц, я бы позаботился о том, чтобы они были и в
+              AMP-версии, — сообщил
+              Мюллер. — На данный момент мы не помечаем это как несоответствие контента, но в
+              качестве рекомендаций
+              советуем убедиться, что страницы эквивалентны, насколько это возможно».
+            </p>
+            <p class="mainP mainP_mt25">Ознакомиться со списком проблем на AMP-страницах можно в
+              Справке Google.
+            </p>
+            <img src="images/my/31_2.jpeg" alt="yandex direct" class="template6__img mainP_mt25 slide31_img">
+          </div>
+        </div>
+
+        <a href="https://www.seroundtable.com/google-amp-comments-29010.html" target="_blank"
+          class="button button_desktop slide31__button">Смотреть</a>
+        <a href="https://www.seroundtable.com/google-amp-comments-29010.html" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <div class="slide__numof slide31__pagination">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 32 -->
+      <section class="slide template2 bg1 slide32" id="slideNumber32">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">В GOOGLE CHROME МОЖЕТ ПОЯВИТЬСЯ ФУНКЦИЯ «ЖИВЫХ
+          СУБТИТРОВ» </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_bold mainP_mt0">Эксперты обнаружили, что команда Google Chrome
+              работает над тем, чтобы
+              реализовать функцию «живых субтитров» (Live Caption) в браузере. Данная функция в
+              реальном времени создает
+              субтитры к любому видеоконтенту и будет полезна людям с нарушениями слуха, а также
+              обычным пользователям,
+              которые смотрят ролики в шумной обстановке.
+            </p>
+            <p class="mainP mainP_mt25">Сейчас «живые субтитры» доступны только в смартфонах Pixel
+              3, Pixel 3a и Pixel
+              4, а также некоторых новинках Samsung.
+            </p>
+          </div>
+          <div class="template2__right text-align_center">
+            <video loop="" autoplay="" poster="video/32_poster.png" class="template2__video">
+              <source data-src="video/32.mp4" src="" type="video/mp4">
+            </video>
+            <div class="button template2__button">Смотреть</div>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#socialmediamarketing" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber5" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <div class="slide__numof">
+          <p class="slide__cur">4</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 33 -->
+      <section class="slide template3 bg2" id="slideNumber33">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">GOOGLE SEARCH CONSOLE ЗАПУСТИЛ
+          НОВЫЕ ОТЧЕТЫ ДЛЯ
+          СТРАНИЦ С ОТЗЫВАМИ
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/33.png" alt="chat bot" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0 mainP_bold">После добавления структурированных данных для
+              отзывов на
+              свои страницы, можно проверить их с помощью инструмента Rich Results Test. Для этого
+              можно использовать
+              фрагмент кода или URL-адрес страницы.
+            </p>
+            <p class="mainP mainP_mt25">Отзыв — это краткая информация с сайта потребительских
+              рейтингов. Обнаружив
+              разметку отзывов или оценок, Google может показывать расширенный сниппет с текстом
+              отзыва и оценкой по
+              пятибалльной шкале (звезды). Отзывы – один из самых распространенных типов
+              структурированных данных,
+              который используется для книг, товаров, фильмов, рецептов и многого другого.
+            </p>
+            <a href="https://webmasters.googleblog.com/2020/02/review-snippets.html" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://webmasters.googleblog.com/2020/02/review-snippets.html" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 34 -->
+      <section class="slide template7 bg1 slide34" id="slideNumber34">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/logo_nectarin.png" alt="logo nectarin"
+          class="slide__logo slide__logo_small template7__logo">
+
+        <h2 class="template7__title mainTitle">63% ПОЛЬЗОВАТЕЛЕЙ КЛИКАЕТ ПО ССЫЛКАМ, ЕСЛИ ИМ
+          НРАВИТСЯ МЕТА-ОПИСАНИЕ
+        </h2>
+        <div class="template7__content">
+          <div class="template7__col">
+            <p class="mainP mainP_bold mainP_mt0">По результатам исследования компании Ignite
+              Visibility, мета-описания
+              и
+              названия брендов являются главными факторами, когда пользователи решают, на какую
+              ссылку в выдаче им
+              кликнуть. Эксперты опросили более 500 пользователей от 25 до 60 лет и узнали, чем
+              руководствуются люди,
+              когда переходят по ссылкам в результатах поиска.
+            </p>
+            <p class="mainP mainP_mt25"><span class="mainP_bold">Ключевые выводы
+                исследования</span><br>
+              На вопрос «Какой фактор повлиял на решение кликнуть на результат поиска?»
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 mainP_mt10"> <span class="listDot"></span> <span
+                class="mainP_bold">62,9%</span>
+              респондентов
+              ответили, что
+              это мета-описание. 24,2% респондентов сказали, что это название компании
+            </p>
+          </div>
+          <div class="template7__col slide34__col2">
+            <p class="mainP mainP_ml20 mainP_mt10 mainP_mt0"><span class="listDot"></span> Для <span
+                class="mainP_bold">13%</span> важен
+              оказался
+              заголовок сниппета.
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 mainP_mt10"><span class="listDot"></span> <span
+                class="mainP_bold">55,1%</span>
+              пользователей
+              заявили, что кликают в
+              выдаче только на сайты брендов,
+              названия которых знают.
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 mainP_mt10"><span class="listDot"></span> <span
+                class="mainP_bold">55,5%</span>
+              опрошенных
+              сообщили, что блоки с ответами
+              и другие функции SERP улучшили
+              результаты поиска.
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 mainP_mt10"><span class="listDot"></span> <span
+                class="mainP_bold">66,7%</span>
+              пользователей
+              признались, что увеличение
+              количества рекламы в Google
+              заставит их реже пользоваться этим поисковиком.
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 mainP_mt10"><span class="listDot"></span> <span
+                class="mainP_bold">67%</span>
+              респондентов
+              сказали, что не хотят видеть
+              рекламу других компаний по
+              брендовым запросам.
+            </p>
+          </div>
+          <div class="template7__col text-align_center">
+            <img src="images/my/34.png" alt="voice assistant" class="template7__img">
+            <a href="https://searchengineland.com/meta-descriptions-and-branding-have-the-most-influence-on-search-clickthrough-survey-finds-328579"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#socialmediamarketing" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber5" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://searchengineland.com/meta-descriptions-and-branding-have-the-most-influence-on-search-clickthrough-survey-finds-328579"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof template7__pagination">
+          <p class="slide__cur">4</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 35 -->
+      <section class="slide template8 bg2" id="slideNumber35">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template8__title mainTitle">БЕСКОНТАКТНЫЕ ПЛАТЕЖИ НА САЙТАХ УВЕЛИЧИВАЮТ СРЕДНИЙ
+          ЧЕК
+        </h2>
+
+        <div class="template8__content">
+          <p class="mainP mainP_mt0">Средний чек при бесконтактной оплате часто выше, чем при
+            платеже другими способами. Яндекс.Касса поделилась результатами исследования, в рамках
+            которого сравнивала
+            платежи за 2019 год на сайтах и приложениях через системы Apple Pay, Google Pay c
+            другими способами оплаты.
+          </p>
+          <p class="mainP mainP_mt25 mainP_bold">Ключевые выводы исследования</p>
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> 19%
+            компаний, использующих
+            Яндекс.Кассу,
+            принимают
+            бесконтактную оплату через Apple Pay и Google Pay на сайтах или в приложениях</p>
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> Чаще всего
+            бесконтактную оплату
+            используют
+            компании,
+            продающие продукты питания (24%).</p>
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> Среди
+            российских сайтов,
+            подключенных к
+            Яндекс.Кассе,
+            наибольший оборот бесконтактных платежей приходился на интернет-магазины электроники и
+            бытовой техники.
+            Исключением стала Москва, где по этому показателю лидируют сайты, продающие билеты в
+            кино, театры, музеи и
+            на концерты.</p>
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span>
+            Исследование показало, что средний чек при бесконтактных платежах на сайтах зачастую
+            оказывается больше, чем
+            при расчетах картами.</p>
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> Самые
+            большие средние чеки при
+            бесконтактной
+            оплате
+            зафиксированы на сайтах с услугами по строительству и проектированию – 9766 рублей. Для
+            сравнения, при
+            оплате картами через интернет-банкинг суммы были в 3 раза меньше — в среднем 3202 рубля.
+          </p>
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> В
+            интернет-магазинах, продающих
+            одежду и
+            обувь, средний
+            чек при бесконтактном расчете оказался в 5 раз выше, чем в остальных случаях, – 5759
+            против 1123 рублей.</p>
+          <a href="https://www.seonews.ru/events/beskontaktnye-platezhi-na-saytakh-uvelichivayut-sredniy-chek/"
+            target="_blank" class="button button_desktop">Смотреть</a>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.seonews.ru/events/beskontaktnye-platezhi-na-saytakh-uvelichivayut-sredniy-chek/"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 36 -->
+      <section class="slide template1" id="production">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
+        <img src="images/my/logo_nectarin_2.png" alt="logo nectarin" class="slide__logo slide__logo_big">
+        <h2 class="template1__title">PRODUCTION</h2>
+
+        <div class="slide__numof slide__numof_pur">
+          <p class="slide__cur">7</p>
+          <p class="slide__of">/ 52</p>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber9" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber11" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+      </section>
+      <!-- slide 37-->
+      <section class="slide template3 bg1 slide37" id="slideNumber37">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">«ПИК-АРЕНДА» ЗАПУСТИЛА УСЛУГУ
+          ПОДБОРА КВАРТИР ПО
+          МЕХАНИКЕ TINDER
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/37_1.png" alt="yandex direct" class="template3__img slide37__img1">
+          </div>
+          <div class="template3__right  text-align_center">
+            <p class="mainP mainP_mt0">Подбор квартир для пользователя будет осуществляться по
+              нескольким
+              параметрам: количество комнат, стоимость и расположение на карте. После регистрации
+              сервис предложит
+              несколько вариантов жилья один за другим, чтобы пользователь отметил варианты
+              «лайками» или «дизлайками».
+              В зависимости от оценок, алгоритм подберет следующие варианты жилья так, чтобы
+              пользователь нашел наиболее
+              подходящую квартиру.
+            </p>
+            <img src="images/my/37_2.gif" alt="yandex direct" class="template3__img mainP_mt25 slide37__img2">
+            <a href="https://www.forbes.ru/newsroom/obshchestvo/393145-krupneyshiy-zastroyshchik-zapustil-podbor-zhilya-v-arendu-po-sheme"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.forbes.ru/newsroom/obshchestvo/393145-krupneyshiy-zastroyshchik-zapustil-podbor-zhilya-v-arendu-po-sheme"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 38 -->
+      <section class="slide template2 bg2" id="slideNumber38">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ELLE И CAPPASITY ЗАПУСТИЛИ 3D-ПРОЕКТ ДЛЯ NO ONE
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt0">Теперь благодаря технологии Cappasity 3D View интересующие
+              одежду, обувь и
+              аксессуары можно будет рассмотреть со всех сторон в высоком разрешении, вращая и
+              увеличивая
+              3D-изображение. Кроме того, встроенная система аналитики Cappasity.AI позволит ELLE
+              изучить взаимодействие
+              аудитории с 3D-изображениями — выявить наиболее популярные ракурсы, точки интереса и
+              другие метрики, чтобы
+              продолжать совершенствовать контент.
+            </p>
+            <p class="mainP mainP_mt25">Для модного глянца 3D-формат — это возможность подарить
+              читателю более
+              полноценный, захватывающий опыт, эффект присутствия.
+              «Мы давно хотели использовать 3D-визуализацию, но на рынке не было удобной для нас
+              технологии. Только
+              сейчас, с Cappasity, мы можем легко создавать десятки и сотни изображений каждый день
+              в 4К-разрешении», -
+              сообщает Наталья Старостина, главный редактор ELLE.ru.
+            </p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/38.png" alt="voice assistant" class="template2__img text-align_center">
+            <a href="https://www.sostav.ru/publication/cappasity-i-elle-41519.html" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.sostav.ru/publication/cappasity-i-elle-41519.html" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">1</p>
+          <p class="slide__of">/ 2</p>
+        </div>
+      </section>
+      <!-- slide 39 -->
+      <section class="slide template2 bg1" id="slideNumber39">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">КАРТА ПРИЗНАНИЙ: «СИТИМОБИЛ» НАПИСАЛ ИМЕНА ВЛЮБЛЕННЫХ
+          НА ДОРОГАХ
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt0">Чтобы подарить «валентинку», пользователю нужно было
+              авторизоваться на сайте и
+              указать имя любимого человека. После этого система построит маршрут любви, и один из
+              виртуальных водителей
+              проедет по городу так, чтобы изобразить имя возлюбленного. А если дорожная ситуация
+              или карта не позволяют
+              водителю начертить имя, он всегда сможет нарисовать главное — сердце.
+            </p>
+            <p class="mainP mainP_mt25">Поделиться признанием с любимым человеком можно в социальных
+              сетях — для этого
+              достаточно выбрать текст поздравления.
+            </p>
+            <a href="https://www.sostav.ru/publication/luchshie-digital-predlozheniya-k-prazdniku-lyubvi-41871.html"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/39.png" alt="voice assistant" class="template2__img text-align_center">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.sostav.ru/publication/luchshie-digital-predlozheniya-k-prazdniku-lyubvi-41871.html"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">1</p>
+          <p class="slide__of">/ 2</p>
+        </div>
+      </section>
+      <!-- slide 40-->
+      <section class="slide template3 bg1" id="slideNumber40">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">MAIL.RU GROUP РАЗРАБОТАЛА
+          ТЕХНОЛОГИЮ РАСПОЗНАВАНИЯ
+          ОЧЕРЕДЕЙ
+          С ПОМОЩЬЮ КОМПЬЮТЕРНОГО ЗРЕНИЯ VISION
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/40.jpeg" alt="yandex direct" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0 mainP_bold">Vision определяет количество человек в очереди в
+              режиме реального
+              времени меньше чем за секунду, а при превышении «лимита» отправляет уведомление на
+              пульт дежурного. При
+              этом компьютерное зрение успешно справляется и тогда, когда силуэты людей загораживают
+              друг друга.
+            </p>
+            <p class="mainP mainP_mt25">Кроме того, Vision следит и за распределением людей в разных
+              частях кадра,
+              например, в одном из отделов супермаркета может собраться больше посетителей. В таком
+              случае администратор
+              получит уведомление о необходимости добавить туда товар или пригласить консультанта.
+            </p>
+            <a href="https://vc.ru/future/108104-mail-ru-group-razrabotala-tehnologiyu-raspoznavaniya-ocheredey-s-pomoshchyu-kompyuternogo-zreniya-vision"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://vc.ru/future/108104-mail-ru-group-razrabotala-tehnologiyu-raspoznavaniya-ocheredey-s-pomoshchyu-kompyuternogo-zreniya-vision"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 41-->
+      <section class="slide template3 bg2" id="slideNumber41">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">МИЛЛЕНИАЛЫ СОСТАВЛЯЮТ ЯДРО
+          АУДИТОРИИ ПЛАТЯЩИХ
+          ГЕЙМЕРОВ
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/41.png" alt="chat bot" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0">Доля людей, которые после установки игры начинают
+              пользоваться платными опциями, выше всего среди аудитории в возрасте 25−34 лет.
+              Пользователи в самой
+              активной возрастной группе (от 25 до 44 лет) обеспечивают почти три четверти дохода от
+              встроенных покупок
+              в мобильных играх. Максимальный средний доход ARPU в расчете на одного пользователя
+              игры (как платящего,
+              так и не платящего) приносят люди от 35 до 44 лет.
+            </p>
+            <p class="mainP mainP_mt25">Женщины платят охотнее мужчин лишь в трех игровых жанрах:
+              «Тайм-менеджмент» (это
+              симуляторы ферм, Diner Dash и прочее), «Три в ряд», а также в MMORPG. В сегменте от 65
+              лет охотнее всего
+              платят в кроссвордах, судоку, викторинах и в играх «Три в ряд».
+            </p>
+            <p class="mainP mainP_mt25">Чаще всего российские пользователи платят после 18 часов,
+              пик приходится на 21
+              час. Мужчины активнее платят в обеденное время, а женщины — в вечернее. Самые
+              прибыльные дни для игровых
+              приложений — пятница и суббота, на них выпадает в среднем на 7% больше платежей, чем
+              на другие дни.
+            </p>
+            <a href="https://www.sostav.ru/publication/mytracker-millenialy-sostavlyayut-yadro-auditorii-platyashchikh-gejmerov-41731.html"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.sostav.ru/publication/mytracker-millenialy-sostavlyayut-yadro-auditorii-platyashchikh-gejmerov-41731.html"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 42 -->
+      <section class="slide template1" id="smmcases">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
+        <img src="images/my/logo_nectarin_2.png" alt="logo nectarin" class="slide__logo slide__logo_big">
+        <h2 class="template1__title">SMM CASES</h2>
+
+        <div class="slide__numof slide__numof_pur">
+          <p class="slide__cur">7</p>
+          <p class="slide__of">/ 52</p>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber9" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber11" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+      </section>
+      <!-- slide 43-->
+      <section class="slide template3 bg1" id="slideNumber43">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">ТАРГЕТИРОВАННАЯ РЕКЛАМА
+          ПОМОГАЕТ СОБАКАМ ОБРЕСТИ
+          ХОЗЯЕВ
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/43.png" alt="yandex direct" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0 mainP_bold">Собачий приют Austin Humane Society начал
+              применять таргетированную
+              рекламу для поиска хозяев своим питомцам. Баннеры с фотографиями животных содержат
+              комичные надписи вроде:
+              «И в снег, и в зной я буду с тобой».
+            </p>
+            <a href="https://www.thedrum.com/creative-works/project/rga-the-humane-society-web-companions"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.thedrum.com/creative-works/project/rga-the-humane-society-web-companions" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 44-->
+      <section class="slide template2 bg2" id="slideNumber44">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">КАК «ПЯТНИЦА!» И «ВКОНТАКТЕ» ИЗБАВЛЯЛИ ОТ СТРАХА
+          ОБЩЕНИЯ</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt0">В День всех влюбленных «Пятница!» анонсировала сервис
+              онлайн-свиданий.
+              Всем желающим было предложено провести день с Цифровым Валентином — ботом ВК, который
+              отвечает на вопросы,
+              вставляет в свои реплики эмодзи и вообще переписывается как настоящий человек… Да
+              потому что он и есть
+              реальный человек!
+            </p>
+            <p class="mainP mainP_mt25">Спустя некоторое количество сообщений в диалоге появлялось:
+              «Все это время ты
+              переписывался не с ботом, а с реальным человеком!.. Помни, что бездушные алгоритмы
+              никогда не заменят
+              живого общения. С Днём святого Валентина!».
+            </p>
+            <a href="https://vk.com/wall-16775977_1537601" target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/44.png" alt="voice assistant" class="template2__img text-align_center">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://vk.com/wall-16775977_1537601" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">1</p>
+          <p class="slide__of">/ 2</p>
+        </div>
+      </section>
+      <!-- slide 45 -->
+      <section class="slide template2 bg1" id="slideNumber45">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">СОВРЕМЕННОЕ БАРОККО ОТ DOLCE & GABBANA
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt0">Dolce & Gabbana анонсирует новую женскую коллекцию
+              весна‒лето 2020. Фотографии
+              для промо-кампании, размещенные в аккаунте бренда в Instagram, вдохновлены полотнами
+              Питера Пауля Рубенса.
+            </p>
+            <a href="https://www.instagram.com/p/B7oMYByqeST/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/45.png" alt="voice assistant" class="template2__img">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#socialmediamarketing" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber5" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.instagram.com/p/B7oMYByqeST/" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">4</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 46-->
+      <section class="slide template3 bg2" id="slideNumber46">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">ФЕСТИВАЛЬ КОРОН ОТ BURGER KING
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/46.png" alt="chat bot" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0">Масштабный Instagram-проект Burger King позволит участникам
+              создать свою версию
+              фирменной короны бренда. Победитель получит возможность распечатать её.
+            </p>
+            <a href="https://www.instagram.com/burgerking_russia/?hl=ru" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.instagram.com/burgerking_russia/?hl=ru" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 47 -->
+      <section class="slide template2 bg1" id="slideNumber47">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">ИМИДЖ И АТМОСФЕРА ALTAI WILD WATER
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt0">Пример того, как посты без продукта на картинке могут
+              соответствовать стилистике
+              бренда в социальных сетях. Например, изображения чистой воды в природе вызывают
+              доверие к качеству
+              бутилированного продукта.
+            </p>
+            <a href="https://www.instagram.com/p/B6ukZa-hIlu/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/47.png" alt="voice assistant" class="template2__img">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#socialmediamarketing" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber5" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.instagram.com/p/B6ukZa-hIlu/" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">4</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 48-->
+      <section class="slide template3 bg2" id="slideNumber48">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right">СИТУАТИВНЫЙ ВИРУСНЫЙ КОНТЕНТ
+          «СОДА ПИЩЕВАЯ»
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/48.png" alt="chat bot" class="template3__img">
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0">Ситуативный контент всегда находит живой отклик у аудитории,
+              так как тесно связан
+              с известными большинству актуальными трендами. В данном случае были обыграны
+              популярные сериалы.
+            </p>
+            <a href="https://www.instagram.com/p/B8v6u43HG53/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.instagram.com/p/B8v6u43HG53/" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 49 -->
+      <section class="slide template2 bg1" id="slideNumber49">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">РОМАНТИКА И ЮМОР FAZER
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt0">Тематика Дня всех влюбленных, приправленная юмором,
+              устанавливает эмоциональную
+              связь подписчиков с брендом и его продуктами. Легкая для восприятия поздравительная
+              открытка подталкивает
+              к тому, чтобы ею поделиться.
+            </p>
+            <a href="https://www.instagram.com/p/B8ixHvYgN1e/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/49.png" alt="voice assistant" class="template2__img">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#socialmediamarketing" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber5" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.instagram.com/p/B8ixHvYgN1e/" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">4</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 50-->
+      <section class="slide template2 bg2 slide50" id="slideNumber50">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle">БЕЗУМНАЯ АНТИУТОПИЧЕСКАЯ РЕКЛАМА BALENCIAGA
+        </h2>
+        <div class="template2__content slide50__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt0">Бренд Balenciaga презентовал свою весенне-летнюю коллекцию в
+              формате новостного
+              выпуска. Компания опубликовала ролик в Twitter</p>
+            <p class="mainP mainP_mt25">4-минутные постапокалиптические новости: кадры солнечного
+              затмения, стихийных
+              бедствий и урбанистические пейзажи сопровождаются музыкой группы Wolf Eyes. Ведущие и
+              их гости беззвучно
+              открывают рты и отстраненно смотрят в камеру.
+            </p>
+          </div>
+          <div class="template2__right text-align_center">
+            <video loop="" autoplay="" poster="video/50_poster.png" class="template2__video">
+              <source data-src="video/50.mp4" src="" type="video/mp4">
+            </video>
+            <div class="button template2__button">Смотреть</div>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <div class="slide__numof">
+          <p class="slide__cur">1</p>
+          <p class="slide__of">/ 2</p>
+        </div>
+      </section>
+      <!-- slide 51 -->
+      <section class="slide lastSlide bg1" id="slideNumber51">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <!-- <img src="images/my/logo_nectarin.png" alt="logo nectarin" class="slide__logo slide__logo_big"> -->
+
+        <div class="lastSlide__content">
+          <h1 class="mainTitle lastSlide__title">МЫ МОЖЕМ ТАК ЖЕ, ТОЛЬКО КРУЧЕ.</h1>
+          <p class="mainP mainP_mt25 lastSlide__subtitle"><span class="mainP_bold">В нашей команде
+              работают</span><br>
+            <span class="mainTitle">300</span> высококлассных специалистов.</p>
+
+          <adress class="lastSlide__contact lastSlide__contact_1">
+            <img src="images/my/51_1.png" alt="adress" class="lastSlide__contactIcon">
+            <div class="lastSlide__contactText">
+              <p class="mainP mainP_bold mainP_mt0 lastSlide__contactTitle">Адрес:</p>
+              <p class="mainP mainP_mt0 lastSlide__contactAdress">109028, Москва, ул. Воронцово
+                Поле, 5</p>
+            </div>
+          </adress>
+          <adress class="lastSlide__contact">
+            <img src="images/my/51_2.png" alt="adress" class="lastSlide__contactIcon">
+            <div class="lastSlide__contactText">
+              <p class="mainP mainP_bold mainP_mt0 lastSlide__contactTitle">Контактная информация:
+              </p>
+              <a href="mailto: info@nectarin.ru" class="mainP mainP_mt0 lastSlide__contactAdress">info@nectarin.ru</a>
+            </div>
+          </adress>
+          <adress class="lastSlide__contact">
+            <img src="images/my/51_3.png" alt="adress" class="lastSlide__contactIcon">
+            <div class="lastSlide__contactText">
+              <p class="mainP mainP_bold mainP_mt0 lastSlide__contactTitle">Телефон для связи:</p>
+              <a href="tel: +74995515551" class="mainP mainP_mt0 lastSlide__contactAdress">+7 (499)
+                551-5-551</a>
+            </div>
+          </adress>
+        </div>
+
+        <div class="slide__numof">
+          <p class="slide__cur">1</p>
+          <p class="slide__of">/ 2</p>
+        </div>
+      </section>
