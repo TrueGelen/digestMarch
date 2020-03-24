@@ -4,7 +4,7 @@
 
 //---variables----
 
-$burgerColor: #FF2F3B;
+$burgerColor: #f52f3c;
 
 *{
 	box-sizing: border-box;
@@ -1463,6 +1463,10 @@ body, div, h1, h2, h3, h4, p, input {
 
 //---other-----------------------------------------
 //----backgrounds
+.bg0_1{
+  background: url(../images/my/bg/0_1.png) no-repeat;
+}
+
 .bg1_1{
   background: url(../images/my/bg/bg1_1.jpg) no-repeat;
 }
@@ -1633,6 +1637,9 @@ body, div, h1, h2, h3, h4, p, input {
     }
   }
 }
+
+
+
 
 
 .slide14{
