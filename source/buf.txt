@@ -2,7 +2,6 @@
       <section class="slide uniq1 bg1_1" id="slideNumber1">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
         <a href="#slideNumber2" class="uniq1__firstButton">
           <svg>
@@ -22,7 +21,6 @@
       </section>
       <!-- slide 2-->
       <section class="slide template2 bg1_1" id="slideNumber2">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template2__title mainTitle">КОРОТКО О НОВОМ ВЫПУСКЕ</h2>
@@ -65,7 +63,6 @@
       <section class="slide template1 bg1_2" id="socialmediamarketing">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
         <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
         <h2 class="template1__title">SMM</h2>
@@ -92,33 +89,48 @@
       <section class="slide template2 bg1_2 slide4" id="slideNumber4">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle">ВКОНТАКТЕ ПРЕДСТАВИЛ ОБНОВЛЕННЫЙ «МАГАЗИН» ДЛЯ E-COMMERCE</h2>
+        <h2 class="template2__title mainTitle colorBlack">ВКОНТАКТЕ ПРЕДСТАВИЛ ОБНОВЛЕННЫЙ «МАГАЗИН» ДЛЯ E-COMMERCE
+        </h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP mainP_bold mainP_mt0">ВКонтакте представляет новую платформу для e-commerce. Первым этапом
+            <p class="mainP mainP_bold mainP_mt0 colorBlack">ВКонтакте представляет новую платформу для e-commerce.
+              Первым этапом
               изменений стал запуск «Магазина 2.0». Все инструменты, которые нужны для продаж во Вконтакте, теперь
               собраны вместе. Чтобы настроить магазин в своем сообществе, больше не придется подключать разные функции
               по отдельности. Просто подключите «Магазин» в настройках.
             </p>
-            <p class="mainP mainP_mt25">Все варианты товаров теперь будут отображаться в одной карточке – больше не
+            <p class="mainP mainP_mt25 colorBlack">Все варианты товаров теперь будут отображаться в одной карточке –
+              больше не
               придется искать нужное, изучая весь ассортимент.
             </p>
-            <p class="mainP mainP_bold mainP_mt25">Прямо из карточки можно:</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> написать продавцу;</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> открыть его
+            <p class="mainP mainP_bold mainP_mt25 colorBlack">Прямо из карточки можно:</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem colorBlack"><span
+                class="listDot listDot_black"></span> написать
+              продавцу;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem colorBlack"><span
+                class="listDot listDot_black"></span> открыть его
               мини-приложение;</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> открыть форму сбора
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem colorBlack"><span
+                class="listDot listDot_black"></span> открыть
+              форму сбора
               заявок;</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> перейти на внешний
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem colorBlack"><span
+                class="listDot listDot_black"></span> перейти на
+              внешний
               сайт;</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> добавить товар в
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem colorBlack"><span
+                class="listDot listDot_black"></span> добавить
+              товар в
               корзину;</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> отслеживать статус
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem colorBlack"><span
+                class="listDot listDot_black"></span> отслеживать
+              статус
               заказа;</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem"><span class="listDot"></span> быстро написать в
+            <p class="mainP mainP_ml20 mainP_mt10 slide4__listItem colorBlack"><span
+                class="listDot listDot_black"></span> быстро
+              написать в
               поддержку и др.</p>
           </div>
           <div class="template2__right text-align_center">
@@ -151,10 +163,10 @@
       </section>
       <!-- slide 5-->
       <section class="slide template3 bg1_2 slide5" id="slideNumber5">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template3__title mainTitle template3__title_right">INSTAGRAM ГОТОВИТСЯ ЗАПУСТИТЬ «ВИДЕОРЕАКЦИИ» ДЛЯ
+        <h2 class="template3__title mainTitle template3__title_right colorBlack">INSTAGRAM ГОТОВИТСЯ ЗАПУСТИТЬ
+          «ВИДЕОРЕАКЦИИ» ДЛЯ
           IGTV
         </h2>
 
@@ -163,10 +175,12 @@
             <img src="images/my/smm/2.png" alt="instagram" class="template3__img slide5__img">
           </div>
           <div class="template3__right">
-            <p class="mainP mainP_mt0 mainP_bold">В Instagram может появиться новая функция видеоответа для IGTV.
+            <p class="mainP mainP_mt0 mainP_bold colorBlack">В Instagram может появиться новая функция видеоответа для
+              IGTV.
               Функция «Видеореакции» (Video Reactions) позволит зрителям IGTV отвечать на контент своими собственными
               видео. При этом авторы IGTV могут отключить или активировать новую опцию.</p>
-            <p class="mainP mainP_mt25">Похожая функция есть в TikTok. С ее помощью можно наложить видеореакцию на
+            <p class="mainP mainP_mt25 colorBlack">Похожая функция есть в TikTok. С ее помощью можно наложить
+              видеореакцию на
               исходный клип, предлагая пользователям новый способ взаимодействия с роликами. </p>
             <a href="https://www.socialmediatoday.com/news/instagrams-testing-a-new-video-response-option-for-igtv/573407/"
               target="_blank" class="button button_desktop">Смотреть</a>
@@ -198,17 +212,18 @@
       <section class="slide template2 bg1_2" id="slideNumber6">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle">FACEBOOK ПОЗВОЛИТ РЕПОСТИТЬ ИСТОРИИ В INSTAGRAM
+        <h2 class="template2__title mainTitle colorBlack">FACEBOOK ПОЗВОЛИТ РЕПОСТИТЬ ИСТОРИИ В INSTAGRAM
         </h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP mainP_mt25">Facebook тестирует возможность кросс-постинга историй в Instagram. Благодаря
+            <p class="mainP mainP_mt25 colorBlack">Facebook тестирует возможность кросс-постинга историй в Instagram.
+              Благодаря
               этому пользователям станет проще поддерживать активность на обеих платформах и расширять охват Stories.
             </p>
-            <p class="mainP mainP_mt25">Специалист по приложениям Джейн Манчун Вонг обнаружила новую функцию, которая
+            <p class="mainP mainP_mt25 colorBlack">Специалист по приложениям Джейн Манчун Вонг обнаружила новую функцию,
+              которая
               позволяет пользователям сделать репост истории из Facebook в Instagram в Android-версии приложения. Сейчас
               пользователи Instagram могут репостить истории в Facebook, но поделиться историей из Facebook в Instagram
               до сих пор было нельзя.</p>
@@ -245,17 +260,19 @@
       <section class="slide template2 bg1_2 slide7" id="slideNumber7">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle">ВКОНТАКТЕ ПОЗВОЛИЛ ВЫНОСИТЬ БЛИЖАЙШИЕ МЕРОПРИЯТИЯ В ГЛАВНЫЙ БЛОК
+        <h2 class="template2__title mainTitle colorBlack">ВКОНТАКТЕ ПОЗВОЛИЛ ВЫНОСИТЬ БЛИЖАЙШИЕ МЕРОПРИЯТИЯ В ГЛАВНЫЙ
+          БЛОК
           СООБЩЕСТВА</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP mainP_mt25">ВКонтакте позволил выносить ближайшие мероприятия в главный блок сообщества.
+            <p class="mainP mainP_mt25 colorBlack">ВКонтакте позволил выносить ближайшие мероприятия в главный блок
+              сообщества.
               Благодаря этому клиентам страниц будет проще узнать о распродажах, лекциях, презентациях и мастер-классах.
             </p>
-            <p class="mainP mainP_mt25">Чтобы вынести ближайшие мероприятия в главный блок сообщества, необходимо
+            <p class="mainP mainP_mt25 colorBlack">Чтобы вынести ближайшие мероприятия в главный блок сообщества,
+              необходимо
               создать событие от имени страницы бизнеса и указать эту страницу в качестве организатора. Блок станет
               главным автоматически. Изменить это можно в настройках сообщества.</p>
             <a href="https://vk.com/business?w=wall-19542789_116117" target="_blank"
@@ -291,24 +308,27 @@
       <section class="slide template2 bg1_2 slide8" id="slideNumber8">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle">ВКОНТАКТЕ ЗАПУСТИТ СЕРВИС КОРОТКИХ ВИДЕО, ПОХОЖИЙ НА TIKTOK
+        <h2 class="template2__title mainTitle colorBlack">ВКОНТАКТЕ ЗАПУСТИТ СЕРВИС КОРОТКИХ ВИДЕО, ПОХОЖИЙ НА TIKTOK
         </h2>
         <div class="template2__content slide8__content">
           <div class="template2__left slide8__left">
-            <p class="mainP mainP_mt25">По словам источника сайта VC.ru, во втором квартале 2020 года ВКонтакте
+            <p class="mainP mainP_mt25 colorBlack">По словам источника сайта VC.ru, во втором квартале 2020 года
+              ВКонтакте
               планирует запустить экспериментальный сервис коротких вертикальных видео. Тот же источник сообщает, что
               разработчики вдохновлялись TikTok.</p>
-            <p class="mainP mainP_mt25">Рабочее название проекта – «Клипы». Сервис станет частью «суперприложения»,
+            <p class="mainP mainP_mt25 colorBlack">Рабочее название проекта – «Клипы». Сервис станет частью
+              «суперприложения»,
               которое развивает Mail.ru Group на базе ВКонтакте. В продвижении платформы будут задействованы лидеры
               мнений и создатели профессионального контента.</p>
-            <p class="mainP mainP_mt25">В сервисе пользователи смогут редактировать видео, добавлять маски и эффекты.
+            <p class="mainP mainP_mt25 colorBlack">В сервисе пользователи смогут редактировать видео, добавлять маски и
+              эффекты.
               Также он будет поддерживать технологии компьютерного зрения (управление жестами) и игры с технологией
               дополненной реальности. В будущем соцсеть планирует запустить инструменты для монетизации авторского
               контента.</p>
-            <p class="mainP mainP_mt25">Согласно презентации, новый сервис «Клипы» будет отображаться возле историй –
+            <p class="mainP mainP_mt25 colorBlack">Согласно презентации, новый сервис «Клипы» будет отображаться возле
+              историй –
               вертикальных фото и видео, расположенных в ленте новостей. Этот формат ВКонтакте развивает уже с 2016
               года.</p>
 
@@ -345,22 +365,26 @@
       <section class="slide template2 bg1_2 slide9" id="slideNumber9">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle">ПРОДАЖИ ЧЕРЕЗ TELEGRAM ПРЕВЫСИЛИ 1 МЛРД РУБЛЕЙ В 2019 ГОДУ</h2>
+        <h2 class="template2__title mainTitle colorBlack">ПРОДАЖИ ЧЕРЕЗ TELEGRAM ПРЕВЫСИЛИ 1 МЛРД РУБЛЕЙ В 2019 ГОДУ
+        </h2>
         <div class="template2__content slide9__content">
           <div class="template2__left slide9__left">
-            <p class="mainP mainP_mt25">В 2019 году пользователи Telegram потратили на товары, купленные через
+            <p class="mainP mainP_mt25 colorBlack">В 2019 году пользователи Telegram потратили на товары, купленные
+              через
               мессенджер, 1,1 млрд рублей. Это на 196% больше, чем в 2018 году, сообщает РБК со ссылкой на исследование
               рекламной сети Admitad.</p>
-            <p class="mainP mainP_mt25">Аналитики компании просмотрели данные о 8 млн онлайн-заказов, сделанных через их
+            <p class="mainP mainP_mt25 colorBlack">Аналитики компании просмотрели данные о 8 млн онлайн-заказов,
+              сделанных через их
               сеть в России за 2019 год. Оказалось, что количество онлайн-продаж через официально заблокированный в
               России мессенджер Telegram выросло почти в 3 раза и составило 1,1 млрд рублей.</p>
-            <p class="mainP mainP_mt25">Общий объем продаж через традиционные онлайн-каналы в Admitad оценили в 86,4
+            <p class="mainP mainP_mt25 colorBlack">Общий объем продаж через традиционные онлайн-каналы в Admitad оценили
+              в 86,4
               млрд рублей. Продажи через новые каналы, куда входят блоги, соцсети, мессенджеры и YouTube, составили 8,3
               млрд рублей в 2019 году.</p>
-            <p class="mainP mainP_mt25">Эксперты отмечают, что Telegram находится на третьем месте среди самых
+            <p class="mainP mainP_mt25 colorBlack">Эксперты отмечают, что Telegram находится на третьем месте среди
+              самых
               популярных мессенджеров в России. Его опережают WhatsApp и Viber. Однако в этих мессенджерах пользователи
               предпочитают общаться, а не совершать покупки, говорят в Admitad.</p>
 
@@ -398,10 +422,473 @@
       <section class="slide template1 bg1_3" id="searchandcontext">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
         <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
         <h2 class="template1__title">Search and<br> Context</h2>
+
+        <div class="slide__numof slide__numof_pur">
+          <p class="slide__cur">7</p>
+          <p class="slide__of">/ 52</p>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber9" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber11" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+      </section>
+      <!-- slide 11 -->
+      <section class="slide template2 bg1_3" id="slideNumber11">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: ВКЛЮЧЕНИЕ ПОКАЗОВ РЕКЛАМЫ НА ПЛОЩАДКАХ РСЯ С
+          ПРОВЕРЕННЫМ
+          КАЧЕСТВОМ ТРАФИКА</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_mt25 colorBlack">На площадках с подтвержденным качеством трафика показы будут
+              продолжаться
+              автоматически, даже если их адреса указаны в списке запрещенных.
+            </p>
+            <p class="mainP mainP_mt25 mainP_bold colorBlack">К таким площадкам относятся две категории сайтов:
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 colorBlack"><span class="listDot listDot_black"></span> Работающие
+              на технологии
+              Турбо. Это
+              площадки с мгновенной загрузкой, качественной мобильной версткой и автоматической расстановкой рекламы;
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 colorBlack"><span class="listDot listDot_black"></span> Собственные
+              проекты Яндекса.
+              Компания
+              внимательно следит за конверсионностью рекламных блоков на сайтах своих сервисов, а также за качеством
+              их аудитории. Сервисы Яндекса заинтересованы в решении задач пользователей, поэтому внимательно относятся
+              к обратной связи по поводу качества, в том числе и работы рекламных блоков.</p>
+
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/1.png" alt="vk" class="template2__img text-align_center">
+            <a href="https://yandex.ru/adv/news/vklyuchenie-pokazov-reklamy-na-ploschadkakh-rsya-s-proverennym-kachestvom-trafika"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 12 -->
+      <section class="slide template2 bg1_3" id="slideNumber12">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: ВОЗМОЖНОСТЬ ОТКЛЮЧАТЬ РЕКЛАМУ НА ДЕСКТОПАХ И
+          УПРАВЛЯТЬ
+          ПОКАЗАМИ НА IOS И ANDROID</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP colorBlack">В Директе стало возможно отключить показы на десктопах с помощью корректировки
+              ставок. Также появилась возможность разделить аудиторию со смартфонами на iOS и Android.Обновление
+              доступно в старом и новом интерфейсах Директа.
+            </p>
+            <p class="mainP mainP_mt25 colorBlack">Нововведение позволит продвигать мобильные приложения или специальные
+              предложения без показов на десктопах или для владельцев смартфонов с разными системами. Также это будет
+              полезно для рекламодателей, которые используют ссылку на приложение в качестве посадочных страниц не
+              только в специальных кампаниях.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/2.png" alt="yandex direct" class="template2__img text-align_center">
+            <a href="https://yandex.ru/adv/news/natselivanie-na-polzovateley-smartfonov-teper-i-v-performanse"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 13 -->
+      <section class="slide template2 bg1_3" id="slideNumber13">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: ПРОДВИЖЕНИЕ ВИДЕОКОНТЕНТА В ОТКРЫТОЙ БЕТЕ</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP colorBlack">Компании и пользователи, которые создают ролики или обзоры товаров, теперь
+              смогут
+              продвигать их в Директе с помощью формата «Продвижение контента». Ролики будут отображаться в сервисе
+              Яндекс.Видео, в отдельном блоке над поисковой выдачей по релевантным запросам и с плашкой «Партнерский
+              контент».
+            </p>
+            <p class="mainP mainP_mt25 colorBlack">Оплата за продвижение видеоконтента будет списываться только за один
+              клик
+              по сниппету на выдаче или по блоку просмотра видеоролика, сколько бы ни сделал их пользователь, а размер
+              ставки определяет сам рекламодатель.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/3.png" alt="yandex direct" class="template2__img text-align_center">
+            <a href="https://yandex.ru/adv/news/prodvizhenie-videokontenta-v-yandeks-direkte-v-otkrytoy-bete"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 14 -->
+      <section class="slide template2 bg1_3" id="slideNumber14">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: ШАБЛОНЫ РАСПИСАНИЯ И ПЕРЕНОС КОРРЕКТИРОВОК НА
+          ГЕОТАРГЕТИНГ
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP colorBlack">При настройке расписания показов теперь можно воспользоваться шаблонами: только
+              рабочее
+              время, ежедневно и т. д.</p>
+            <p class="mainP mainP_mt25 colorBlack">Корректировки на геотаргетинг переместились в блок «Корректировки
+              ставок». Это
+              позволит специалисту задать все корректировки в одном разделе. Механика работы корректировок остается
+              прежней, они применяются ко всем объявлениям внутри кампании.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/4.png" alt="yandex direct" class="template2__img text-align_center">
+            <a href="https://yandex.ru/adv/news/prezhnie-vozmozhnosti-v-novom-dizayne-uluchshennaya-stranitsa-tekstovo-graficheskikh-kampaniy-i-novoe-v-interfeyse-yandeks-direkta"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 15 -->
+      <section class="slide template2 bg1_3" id="slideNumber15">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: НОВАЯ МОДЕЛЬ АТРИБУЦИИ ПО УМОЛЧАНИЮ</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP colorBlack">В системе изменилась модель атрибуции по умолчанию. Вместо модели «Последний
+              переход» будет
+              использоваться «Последний значимый переход». Новая модель помогает лучше понять, как работают разные
+              источники привлечения посетителей. Старая модель больше полезна для технического анализа сайта.</p>
+            <p class="mainP mainP_mt25 colorBlack">Теперь в отчетах с данными по источникам трафика по умолчанию выбрана
+              модель
+              атрибуции «Последний значимый переход».
+              Из-за смены модели атрибуции по умолчанию трафик перераспределится между источниками: внутренних переходов
+              и прямых заходов станет меньше, переходов из других источников — больше.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/5.png" alt="yandex direct" class="template2__img text-align_center">
+            <a href="https://yandex.ru/blog/metrika/default-attribution-last-non-direct" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 16 -->
+      <section class="slide template2 bg1_3" id="slideNumber16">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">GOOGLE ADS: ТОВАРНЫЕ ОБЪЯВЛЕНИЯ GOOGLE НАЧНУТ ПОКАЗЫВАТЬСЯ В
+          GMAIL</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP colorBlack">Рекламодатели смогут выбрать Gmail для стандартных товарных объявлений и
+              объявлений-витрин в качестве плейсмента наравне с YouTube и Discoverу Feed.</p>
+            <p class="mainP mainP_mt25 colorBlack">Google объединит показатели эффективности рекламы на YouTube, Gmail
+              и Discover в
+              отчетах по Контекстно-медийной сети. Компания предупреждает, что рекламодатели могут заметить снижение CTR
+              в трафике КМС, так как эти показы, вероятно, охватывают пользователей, находящихся выше по воронке продаж,
+              чем те, что пришли из поиска.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/6.png" alt="yandex direct" class="template2__img text-align_center">
+            <a href="https://ads-developers.googleblog.com/2020/02/gmail-on-standard-shopping-campaigns.html"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 17 -->
+      <section class="slide template2 bg1_3" id="slideNumber17">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">GOOGLE ADS: НОВЫЕ ДЕЙСТВИЯ-КОНВЕРСИИ ДЛЯ ОТСЛЕЖИВАНИЯ ПРОДАЖ И
+          ЛИДОВ</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP colorBlack">Google Ads тестирует более детальные варианты действий-конверсий на сайте.
+              На скриншоте видно, что в аккаунте Google Ads появились новые разделы — «Продажи» и «Лиды».
+            </p>
+            <p class="mainP mainP_mt25 colorBlack">В категории «Продажи» доступны следующие действия-конверсии: покупка,
+              добавление
+              в корзину, начало, оформления заказа, подписка.</p>
+            <p class="mainP mainP_mt25 colorBlack">Категория «Лиды» содержит такие действия: отправка формы, бронь,
+              регистрация,
+              запрос цены, получение инструкции, исходящий клик.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/7.png" alt="yandex direct" class="template2__img text-align_center">
+            <a href="https://twitter.com/abilitydesigns/status/1229455782409670664" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 18 -->
+      <section class="slide template2 bg1_3" id="slideNumber18">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">GOOGLE ADS: УПРОЩЕННЫЙ ОБМЕН СПИСКАМИ АУДИТОРИЙ ВНУТРИ
+          УПРАВЛЯЮЩЕГО
+          АККАУНТА</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP colorBlack">Пользователи Google Ads смогут непрерывно обмениваться списками аудиторий между
+              учетными
+              записями внутри одного управляющего аккаунта.
+            </p>
+            <p class="mainP mainP_mt25 colorBlack">Чтобы предоставить другим аккаунтам Google Ads доступ к списку
+              аудиторий,
+              клиентский (дочерний) аккаунт должен открыть этот список для управляющего аккаунта и добавить его в набор
+              общих списков управляющего аккаунта. Затем управляющий аккаунт сможет открыть список для других
+              подчиненных ему аккаунтов.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/8.png" alt="yandex direct" class="template2__img text-align_center">
+            <a href="https://support.google.com/google-ads/answer/6123188" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 19 -->
+      <section class="slide template2 bg1_3" id="slideNumber19">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle colorBlack">GOOGLE ADS: ДИАГРАММЫ В ОТЧЕТЕ ПО ИСТОРИИ ИЗМЕНЕНИЙ</h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP colorBlack">Рекламодатели Google Ads получат возможность просматривать заметки об изменениях
+              на графиках, отражающих эффективность работы кампании. Их можно будет увидеть в разделе «История
+              изменений». Новинка поможет разобраться, какие изменения и как повлияли на эффективность рекламы.
+            </p>
+            <p class="mainP mainP_mt25 colorBlack">Кроме того, изменения можно отфильтровать в таблице, например,
+              по кампании, типу
+              изменений, пользователю, а также построить график с опорой на нужные показатели. Над таблицей
+              рекламодатель сможет увидеть количество изменений по типам: по аудитории, бюджетам, ключевым словам, цели
+              оптимизации и креативам (только в кампаниях для приложений).</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sac/9.png" alt="yandex direct" class="template2__img text-align_center">
+            <a href="https://support.google.com/google-ads/answer/9733082?hl=ru" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+
+          <div class="slide__buttons">
+            <a href="#slideNumber4" class="slide__button slide__button_left">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+            <a href="#slideNumber6" class="slide__button slide__button_right">
+              <svg>
+                <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <a href="https://vk.com/business?w=wall-19542789_114592" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 20 -->
+      <section class="slide template1 bg1_3" id="searchandcontext">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
+        <h2 class="template1__title">Media</h2>
 
         <div class="slide__numof slide__numof_pur">
           <p class="slide__cur">7</p>
@@ -425,247 +912,6 @@
 
 
 
-      <!-- slide 8 -->
-      <section class="slide template2 bg1" id="slideNumber8">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
-        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
-        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
-
-        <h2 class="template2__title mainTitle">ЯНДЕКС.ДИРЕКТ РАЗРЕШИЛ ОТКЛЮЧАТЬ РЕКЛАМУ НА ДЕСКТОПАХ
-          И УПРАВЛЯТЬ
-          ПОКАЗАМИ НА iOS И ANDROID</h2>
-        <div class="template2__content">
-          <div class="template2__left">
-            <p class="mainP mainP_bold mainP_mt0">Теперь можно продвигать мобильные приложения или
-              специальные
-              предложения без
-              показов на десктопах, а также дополнительно разделить аудитории со смартфонами на iOS
-              и Android.</p>
-            <p class="mainP mainP_mt25">Можно отключить на выбор или iOS, или Android, и исключить
-              пользователей
-              десктопа.
-              Корректировка на все смартфоны по-прежнему доступна в диапазоне от -50% до +1200%.
-              Настроить более гибкие
-              корректировки можно уже сейчас.</p>
-            <a href="https://yandex.ru/adv/news/natselivanie-na-polzovateley-smartfonov-teper-i-v-performanse"
-              target="_blank" class="button button_desktop">Смотреть</a>
-          </div>
-          <div class="template2__right text-align_center">
-            <img src="images/my/8.png" alt="voice assistant" class="template2__img">
-          </div>
-        </div>
-
-        <div class="slide__buttons">
-          <a href="#socialmediamarketing" class="slide__button slide__button_left">
-            <svg>
-              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
-            </svg>
-          </a>
-          <a href="#slideNumber5" class="slide__button slide__button_right">
-            <svg>
-              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
-            </svg>
-          </a>
-        </div>
-
-        <a href="https://yandex.ru/adv/news/natselivanie-na-polzovateley-smartfonov-teper-i-v-performanse"
-          target="_blank" class="button button_mobile">Смотреть</a>
-
-        <div class="slide__numof">
-          <p class="slide__cur">4</p>
-          <p class="slide__of">/ 84</p>
-        </div>
-      </section>
-      <!-- slide 9 -->
-      <section class="slide template5 bg2 slide9" id="slideNumber9">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
-        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
-
-        <h2 class="template5__title mainTitle">ЯНДЕКС.ДИРЕКТ ЗАПУСТИЛ В ОТКРЫТУЮ БЕТУ ПРОДВИЖЕНИЕ
-          ВИДЕОКОНТЕНТА</h2>
-        <div class="template5__content template5_mt15">
-          <div class="template5__row">
-            <p class="template5__col mainP">В кампании «Продвижение контента» в Яндекс.Директе
-              появилась новая площадка
-              для размещения —
-              Яндекс.Видео. Рекламные ролики будут показываться в отдельном блоке над поисковой
-              выдачей Яндекс.Видео по
-              релевантным
-              запросам, оплата за клик.</p>
-            <div class="template5__col text-align_center">
-              <img src="images/my/9_1.gif" alt="gif" class="template5__colImg slide9__img">
-            </div>
-          </div>
-          <div class="template5__row template5_mt15">
-            <div class="template5__col">
-              <p class="mainP">Инструмент поможет увеличить охват видеоконтента,
-                вырастить знание о
-                продукте или услуге, а так же
-                создать эмоциональную связь с аудиторией.
-                Потестировать бета-версию и начать продвигать видеоконтент можно уже сейчас.</p>
-              <a href="https://yandex.ru/adv/news/prodvizhenie-videokontenta-v-yandeks-direkte-v-otkrytoy-bete"
-                target="_blank" class="button button_desktop">Смотреть</a>
-            </div>
-
-            <div class="template5__col text-align_center">
-              <img src="images/my/9_2.jpg" alt="gif" class="template5__colImg slide9__img">
-            </div>
-          </div>
-        </div>
-
-        <div class="slide__buttons">
-          <a href="#slideNumber5" class="slide__button slide__button_left">
-            <svg>
-              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
-            </svg>
-          </a>
-          <a href="#slideNumber7" class="slide__button slide__button_right">
-            <svg>
-              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
-            </svg>
-          </a>
-        </div>
-
-        <a href="https://yandex.ru/adv/news/prodvizhenie-videokontenta-v-yandeks-direkte-v-otkrytoy-bete"
-          target="_blank" class="button button_mobile">Смотреть</a>
-
-        <div class="slide__numof">
-          <p class="slide__cur">6</p>
-          <p class="slide__of">/ 84</p>
-        </div>
-      </section>
-      <!-- slide 10-->
-      <section class="slide template3 bg1" id="slideNumber10">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
-        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
-        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
-
-        <h2 class="template3__title mainTitle template3__title_right">ЯНДЕКС.ДИРЕКТ УЛУЧШИЛ
-          НАСТРОЙКИ ТАРГЕТИНГА НА
-          РЕГИОНЫ</h2>
-
-        <div class="template3__content">
-          <div class="template3__left text-align_center">
-            <img src="images/my/10.png" alt="yandex direct" class="template3__img">
-          </div>
-          <div class="template3__right">
-            <p class="mainP mainP_mt0 mainP_bold">Теперь работа геотаргетинга стала прозрачнее
-              и гибче.
-              Указать регионы
-              показов объявлений теперь можно на уровне отдельных групп, редактирование на уровне
-              кампаний больше
-              недоступно.
-              Вносить изменения можно массово или частично на группы внутри одной или нескольких
-              кампаний.</p>
-            <p class="mainP mainP_mt25">Корректировки на геотаргетинг перешли в блок «Корректировки
-              ставок». Теперь все
-              нужные
-              корректировки можно настроить в одном месте на странице редактирования кампании.</p>
-          </div>
-        </div>
-
-        <div class="slide__buttons">
-          <a href="#slideNumber5" class="slide__button slide__button_left">
-            <svg>
-              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
-            </svg>
-          </a>
-          <a href="#slideNumber7" class="slide__button slide__button_right">
-            <svg>
-              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
-            </svg>
-          </a>
-        </div>
-
-        <a href="https://yandex.ru/adv/news/prezhnie-vozmozhnosti-v-novom-dizayne-uluchshennaya-stranitsa-tekstovo-graficheskikh-kampaniy-i-novoe-v-interfeyse-yandeks-direkta"
-          target="_blank" class="button button_desktop">Смотреть</a>
-        <a href="https://yandex.ru/adv/news/prezhnie-vozmozhnosti-v-novom-dizayne-uluchshennaya-stranitsa-tekstovo-graficheskikh-kampaniy-i-novoe-v-interfeyse-yandeks-direkta"
-          target="_blank" class="button button_mobile">Смотреть</a>
-
-        <div class="slide__numof">
-          <p class="slide__cur">6</p>
-          <p class="slide__of">/ 84</p>
-        </div>
-      </section>
-      <!-- slide 11-->
-      <section class="slide template2 bg2 slide11" id="slideNumber11">
-        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
-        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
-
-        <h2 class="template2__title mainTitle">ЯНДЕКС.ДИРЕКТ: РЕЦЕПТ ЭФФЕКТИВНОГО КРЕАТИВА ДЛЯ
-          ВИДЕОРЕКЛАМЫ — МНЕНИЯ
-          ЭКСПЕРТОВ</h2>
-        <p class="mainP mainP_bold mainP_mt25">Digital — это очень динамичная среда, в которой
-          пользователь может
-          пропустить видеоролик или отвлечься от него на другой медиаконтент. Эксперты рекомендуют:
-        </p>
-        <div class="template2__content slide11__content">
-          <div class="template2__left">
-            <p class="mainP mainP_ml20 slide11__listItem"><span class="listDot slide11__listDot"></span>
-              запускать
-              более
-              короткие ролики (до
-              15-20 секунд).</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide11__listItem"><span class="listDot slide11__listDot"></span>
-              создавать несколько
-              вариантов роликов и
-              таргетироваться на разные
-              аудитории, показывать
-              продолжение истории тем, кто досмотрел ролик до конца;</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide11__listItem"><span class="listDot slide11__listDot"></span>
-              помнить о том, что
-              серия роликов дает
-              лучшие
-              результаты, чем одно
-              базовое видео;</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide11__listItem"><span class="listDot slide11__listDot"></span>
-              использовать
-              интерактив (запоминаемость
-              интерактивных
-              роликов в
-              1,5 раза лучше);</p>
-            <p class="mainP mainP_ml20 mainP_mt10 slide11__listItem"><span class="listDot slide11__listDot"></span>
-              оценивать несколько
-              креативов в рамках
-              A/B-тестирования;</p>
-            <p class="mainP mainP_mt25"><span class="mainP_bold">Тренды для видеокреативов:</span>
-              востребована
-              абсурдность формы; на волне моды на 90-е остается в
-              тренде привлечение звезд того времени, музыки, образов; сторителлинг - контент в форме
-              историй, который
-              ценен сам по
-              себе, но создан благодаря участию бренда.</p>
-          </div>
-          <div class="template2__right text-align_center text-align_center">
-            <img src="images/my/11.png" alt="voice assistant" class="template2__img">
-            <a href="https://yandex.ru/adv/news/retsept-effektivnogo-kreativa-dlya-videoreklamy-ekspertnoe-mnenie"
-              target="_blank" class="button button_desktop slide11_buttonSm">Смотреть</a>
-          </div>
-        </div>
-
-        <div class="slide__buttons">
-          <a href="#slideNumber4" class="slide__button slide__button_left">
-            <svg>
-              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
-            </svg>
-          </a>
-          <a href="#slideNumber6" class="slide__button slide__button_right">
-            <svg>
-              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
-            </svg>
-          </a>
-        </div>
-
-        <a href="https://yandex.ru/adv/news/retsept-effektivnogo-kreativa-dlya-videoreklamy-ekspertnoe-mnenie"
-          target="_blank" class="button button_mobile slide11_buttonXs">Смотреть</a>
-
-        <div class="slide__numof">
-          <p class="slide__cur">5</p>
-          <p class="slide__of">/ 84</p>
-        </div>
-      </section>
       <!-- slide 12-->
       <section class="slide template2 bg1 slide12" id="slideNumber12">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">

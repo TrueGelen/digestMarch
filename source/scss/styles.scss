@@ -545,7 +545,7 @@ body, div, h1, h2, h3, h4, p, input {
   width: 160px;
   height: 39px;
 
-  background: #FF9C19;
+  background: $burgerColor;
   border-radius: 60px;
 
   font-family: GothamPro-Light, sans-serif;
@@ -620,7 +620,11 @@ body, div, h1, h2, h3, h4, p, input {
 	height: 5px;
 	border-radius: 50%;
 	background-color: white;
-	transform: translateY(-50%);
+  transform: translateY(-50%);
+  
+  &_black{
+    background-color: #000;
+  }
 }
 
 //----helpers classes---
@@ -637,6 +641,10 @@ body, div, h1, h2, h3, h4, p, input {
     width: 100% !important;
     transform: translateX(-50%) !important;
   }
+}
+
+.colorBlack{
+  color: black;
 }
 
 //---unique slide----
@@ -1626,52 +1634,6 @@ body, div, h1, h2, h3, h4, p, input {
   }
 }
 
-
-
-.slide9{
-  
-  &__img{
-
-    @media (min-width: 561px) and (max-width: 768px){
-      width: 100%;
-      max-width: 320px;
-    }
-  }
-}
-
-.slide11{
-
-  &__content{
-    @media (min-width: 769px) and (max-width: 1050px) {
-      margin-top: 10px;
-    }
-  }
-
-  &__listItem{
-    @media (min-width: 769px) and (max-width: 1050px) {
-      margin-top: 0px;
-    }
-  }
-
-  &__listDot{
-    @media (min-width: 769px) and (max-width: 1050px) {
-      width: 3px;
-      height: 3px;
-    }
-  }
-
-  &_buttonSm{
-    @media (min-width: 561px) and (max-width: 768px){
-      display: block;
-    }
-  }
-
-  &_buttonXs{
-    @media (min-width: 561px) and (max-width: 768px){
-      display: none;
-    }
-  }
-}
 
 .slide14{
 
