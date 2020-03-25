@@ -80,14 +80,14 @@
           </a>
         </div>
 
-        <div class="slide__numof slide__numof_pur">
+        <div class="slide__numof">
           <p class="slide__cur">3</p>
           <p class="slide__of">/ 84</p>
         </div>
       </section>
       <!-- slide 4 -->
       <section class="slide template2 bg1_1 slide4" id="slideNumber4">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -206,7 +206,7 @@
       </section>
       <!-- slide 6 -->
       <section class="slide template2 bg1_1" id="slideNumber6">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -254,7 +254,7 @@
       </section>
       <!-- slide 7 -->
       <section class="slide template2 bg1_1 slide7" id="slideNumber7">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -302,7 +302,7 @@
       </section>
       <!-- slide 8 -->
       <section class="slide template2 bg1_1 slide8" id="slideNumber8">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -360,7 +360,7 @@
       </section>
       <!-- slide 9 -->
       <section class="slide template2 bg1_1 slide9" id="slideNumber9">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -428,7 +428,7 @@
         <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
         <h2 class="template1__title">Search and<br> Context</h2>
 
-        <div class="slide__numof slide__numof_pur">
+        <div class="slide__numof">
           <p class="slide__cur">7</p>
           <p class="slide__of">/ 52</p>
         </div>
@@ -448,7 +448,7 @@
       </section>
       <!-- slide 11 -->
       <section class="slide template2 bg1_3" id="slideNumber11">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -506,7 +506,7 @@
       </section>
       <!-- slide 12 -->
       <section class="slide template2 bg1_3" id="slideNumber12">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -554,7 +554,7 @@
       </section>
       <!-- slide 13 -->
       <section class="slide template2 bg1_3" id="slideNumber13">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -602,7 +602,7 @@
       </section>
       <!-- slide 14 -->
       <section class="slide template2 bg1_3" id="slideNumber14">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -649,7 +649,7 @@
       </section>
       <!-- slide 15 -->
       <section class="slide template2 bg1_3" id="slideNumber15">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -696,7 +696,7 @@
       </section>
       <!-- slide 16 -->
       <section class="slide template2 bg1_3" id="slideNumber16">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -742,7 +742,7 @@
       </section>
       <!-- slide 17 -->
       <section class="slide template2 bg1_3" id="slideNumber17">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -790,7 +790,7 @@
       </section>
       <!-- slide 18 -->
       <section class="slide template2 bg1_3" id="slideNumber18">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -839,7 +839,7 @@
       </section>
       <!-- slide 19 -->
       <section class="slide template2 bg1_3" id="slideNumber19">
-        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
@@ -885,14 +885,14 @@
         </div>
       </section>
       <!-- slide 20 -->
-      <section class="slide template1 bg1_1" id="searchandcontext">
+      <section class="slide template1 bg1_1" id="media">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
         <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
         <h2 class="template1__title">Media</h2>
 
-        <div class="slide__numof slide__numof_pur">
+        <div class="slide__numof">
           <p class="slide__cur">7</p>
           <p class="slide__of">/ 52</p>
         </div>
@@ -912,6 +912,7 @@
       </section>
       <!-- slide 21-->
       <section class="slide template3 bg1_1" id="slideNumber21">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template3__title mainTitle template3__title_right">В MEGOGO ПОЯВИЛИСЬ STORIES С ТРЕЙЛЕРАМИ И ЛУЧШИМИ
@@ -963,6 +964,7 @@
       </section>
       <!-- slide 22-->
       <section class="slide template3 bg1_1" id="slideNumber22">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template3__title mainTitle template3__title_right">VIBER ЗАПУСТИЛ НОВЫЙ РЕКЛАМНЫЙ ФОРМАТ
@@ -1006,6 +1008,7 @@
       </section>
       <!-- slide 23-->
       <section class="slide template3 bg1_1" id="slideNumber23">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template3__title mainTitle template3__title_right">STICKY VIDEO УВЕЛИЧИВАЮТ ЗАПОМИНАЕМОСТЬ БРЕНДА НА
@@ -1061,6 +1064,7 @@
       </section>
       <!-- slide 24-->
       <section class="slide template3 bg1_1" id="slideNumber24">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template3__title mainTitle template3__title_right">КОМПАНИИ СОКРАЩАЮТ ДЛИТЕЛЬНОСТЬ СВОИХ РЕКЛАМНЫХ
@@ -1111,10 +1115,12 @@
       </section>
       <!-- slide 25 -->
       <section class="slide template5 bg1_1 slide25" id="slideNumber25">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template5__title mainTitle">РОСТ ПОПУЛЯРНОСТИ ГОЛОСОВОЙ РЕКЛАМЫ</h2>
-        <p class="template5__subtitle mainP mainP_mt10">Согласно исследованию Jupiter Research, к 2023 году будут
+        <p class="template5__subtitle mainP mainP_mt10 mainP_1366_fs14">Согласно исследованию Jupiter Research, к 2023
+          году будут
           использоваться около 8
           миллиардов цифровых голосовых помощников, таких как Яндекс Алиса, Google Assistant и Apple Siri, (по сравнению
           с 2,5 миллиардами помощников, использованными в 2018 году). Голосовые помощники узнают у пользователей
@@ -1124,14 +1130,15 @@
         </p>
         <div class="template5__content template5_mt15">
           <div class="template5__row">
-            <p class="template5__col mainP">Pandora: После запуска своего мобильного помощника Voice Mode летом 2019
+            <p class="template5__col mainP mainP_1366_fs14">Pandora: После запуска своего мобильного помощника Voice
+              Mode летом 2019
               года Pandora разработала сценарии и протестировала креативную рекламу для брендов Nestle, Wendy's,
               Unilever и т.д., которая воспроизводилась между песнями. Чтобы услышать дополнительный рекламный контент
               пользователю просто нужно было сказать «да». Если пользователь не отвечает или говорит «нет», музыка
               возобновляется. Так, например, реклама DiGiorno’s pizza рассказывала анекдот в рекламе Pandora – но, чтобы
               услышать изюминку, слушатели должны были сказать «да».
             </p>
-            <div class="template5__col mainP">
+            <div class="template5__col mainP mainP_1366_fs14">
               Spotify: компания, занимающаяся потоковой музыкой, тестировала голосовые интерактивные объявления,
               рекламирующие контент в своем приложении. В ответ на рекламный запрос пользователь должен был сказать
               «играть сейчас», чтобы перейти в рекламируемый подкаст или плейлист. Если пользователь говорит что-то
@@ -1170,35 +1177,44 @@
       </section>
       <!-- slide 26 -->
       <section class="slide template8 bg1_1 slide26" id="slideNumber26">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template8__title mainTitle">ПРЕИМУЩЕСТВА РЕКЛАМЫ В СООБЩЕНИЯХ
         </h2>
 
         <div class="template8__content">
-          <p class="mainP mainP_mt0">С каждым днем становится сложнее привлечь внимание пользователей к рекламе. Все
+          <p class="mainP mainP_mt0 mainP_1366_fs14">С каждым днем становится сложнее привлечь внимание пользователей к
+            рекламе. Все
             больше пользователей стараются вовсе избегать рекламу, поэтому бренды все чаще обращаются к пространству
             обмена сообщениями, чтобы охватить потребителей.</p>
-          <p class="mainP mainP_mt25">Обмен сообщениями - это очень личное пространство, но при этом имеет огромный
+          <p class="mainP mainP_mt25 mainP_1366_fs14 mainP_1366_mt10">Обмен сообщениями - это очень личное пространство,
+            но при этом
+            имеет огромный
             рекламный потенциал при правильном его использовании. Оно позволяет повысить узнаваемость бренда с помощью
             чистого брендинга, а также превратить потенциальных потребителей в клиентов. Такой подход может
             способствовать росту лояльности. Особенно, когда потребителям комфортно обмениваться сообщениями с брендом.
           </p>
-          <p class="mainP mainP_mt25 mainP_bold">Пять правил создания рекламных сообщений:</p>
-          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> Представьте свой бренд в лучшем
+          <p class="mainP mainP_mt25 mainP_bold mainP_1366_fs14 mainP_1366_mt10">Пять правил создания рекламных
+            сообщений:</p>
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10 mainP_1366_fs14"><span class="listDot"></span> Представьте
+            свой бренд в лучшем
             виде. (Многие компании заставляют пользователей добавлять свои контакты в WhatsApp, чтобы отправлять им
             сообщения. Это отталкивает потребителей.);
           </p>
-          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> Поддерживайте индивидуальный
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10 mainP_1366_fs14"><span class="listDot"></span> Поддерживайте
+            индивидуальный
             подход. (Люди не хотят получать общую информацию в сообщениях. Старайтесь персонализировать сообщения.);
           </p>
-          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> Создайте уникальный текст.
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10 mainP_1366_fs14"><span class="listDot"></span> Создайте
+            уникальный текст.
             (Текст не должен копировать ваш сайт и прочее.);
           </p>
-          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span>
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10 mainP_1366_fs14"><span class="listDot"></span>
             Выберите правильное время. (Вы должны понимать, когда ваши клиенты готовы с вами общаться, а когда – нет.);
           </p>
-          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10"><span class="listDot"></span> Добавьте «человечности». (Даже
+          <p class="mainP mainP_mt0 mainP_ml20 mainP_mt10 mainP_1366_fs14"><span class="listDot"></span> Добавьте
+            «человечности». (Даже
             если вы используете чат-бот, ответы должны быть такими, как если бы они были отправлены человеком);</p>
 
           <div class="slide26__bottom">
@@ -1231,6 +1247,7 @@
       </section>
       <!-- slide 27 -->
       <section class="slide template5 bg1_1 slide27" id="slideNumber27">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template5__title mainTitle">РОСТ ВЫРУЧКИ ВИДЕОСЕРВИСОВ</h2>
@@ -1275,6 +1292,7 @@
       </section>
       <!-- slide 28 -->
       <section class="slide template8 bg1_1 slide28" id="slideNumber28">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template8__title mainTitle">РОСТ ДОЛИ ИНТЕРНЕТ-ПОКУПАТЕЛЕЙ
@@ -1282,19 +1300,25 @@
 
         <div class="template8__content text-align_center">
           <img src="images/my/media/7.gif" alt="instagram" class="slide28__img">
-          <p class="mainP mainP_mt25">Российские покупатели все чаще предпочитают заказывать продукты онлайн, согласно
+          <p class="mainP mainP_mt25 mainP_1366_fs14 mainP_1366_mt10">Российские покупатели все чаще предпочитают
+            заказывать продукты
+            онлайн, согласно
             отчету инвестбанка HSBC. В феврале 2020 г. были опрошены 1,3 тыс. респондентов, результаты сопоставили с
             аналогичным опросом ноября 2018-го. Согласно полученным данным, доля интернет-покупателей продуктов в России
             выросла с 7% до 18%. Средний чек в онлайн-супермаркетах почти втрое выше, чем в традиционной рознице: 1591
             руб. против 530 руб. в сетях X5 Retail Group (Пятерочка, Перекресток, Карусель) и Магнит. Самыми популярными
             онлайн-магазинами для заказа продуктов среди респондентов стали Перекресток, Ozon и Ашан, четвертую позицию
             занял сервис Яндекс.Лавка.</p>
-          <p class="mainP mainP_mt25">Помимо онлайн заказов продуктов, выросла и популярность доставки готовой еды из
+          <p class="mainP mainP_mt25 mainP_1366_fs14 mainP_1366_mt10">Помимо онлайн заказов продуктов, выросла и
+            популярность доставки
+            готовой еды из
             ресторанов. В Москве, Санкт-Петербурге и их областях доля тех, кто заказывает ее хотя бы раз в неделю,
             увеличилась с 18% в ноябре 2018 года до 33% в феврале 2020-го. При этом треть из пользователей предпочитают
             делать заказ напрямую из ресторана по телефону, 23% и 20% — через приложения Delivery Club и Яндекс.Еда, а
             оставшаяся доля опрошенных — через прочие сервисы и приложения.</p>
-          <p class="mainP mainP_mt25">Также россияне стали чаще пользоваться услугами заказа такси. В 2018 г. этой
+          <p class="mainP mainP_mt25 mainP_1366_fs14 mainP_1366_mt10">Также россияне стали чаще пользоваться услугами
+            заказа такси. В
+            2018 г. этой
             услугой никогда не пользовались 30%, а в 2020 г. — всего 11%. Яндекс.Такси, занимающий долю в 63%, остается
             самым популярным сервисом,. Так, например, на Ситимобил (принадлежит Mail.ru Group и Сбербанку) пришлось
             всего 7%.</p>
@@ -1314,23 +1338,15 @@
             </svg>
           </a>
         </div>
-
-        <a href="https://www.kommersant.ru/doc/4275994" target="_blank" class="button button_mobile">Смотреть</a>
-
-        <div class="slide__numof">
-          <p class="slide__cur">6</p>
-          <p class="slide__of">/ 84</p>
-        </div>
-      </section>
       <!-- slide 29 -->
-      <section class="slide template1 bg1_1" id="searchandcontext">
+      <section class="slide template1 bg1_1" id="searchandoptimization">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
         <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
         <h2 class="template1__title">SEARCH AND<br>OPTIMIZATION</h2>
 
-        <div class="slide__numof slide__numof_pur">
+        <div class="slide__numof">
           <p class="slide__cur">7</p>
           <p class="slide__of">/ 52</p>
         </div>
@@ -1346,6 +1362,62 @@
               <use xlink:href="svgSprite/sprite.svg#chevron"></use>
             </svg>
           </a>
+        </div>
+      </section>
+      <!-- slide 30 -->
+      <section class="slide template5 bg1_1 slide30" id="slideNumber30">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template5__title mainTitle">ЯНДЕКС.ВЕБМАСТЕР ДОБАВИЛ НОВЫЙ ФУНКЦИОНАЛ В ОТЗЫВАХ НА САЙТ</h2>
+        <div class="template5__content template5_mt15">
+          <div class="template5__row">
+            <div class="template5__col template5_mt15 text-align_center">
+              <p class="mainP">Яндекс.Вебмастер позволил сортировать отзывы. Это поможет владельцам сайтов
+                вовремя отслеживать мнение клиентов и реагировать на жалобы.</p>
+              <p class="mainP mainP_mt25">
+                Сортировка отзывов по дате, релевантности, популярности и рейтингу доступна в разделе «Отзывы»
+                Вебмастера.
+              </p>
+              <img src="images/my/sao/1_1.jpg" alt="gif" class="mainP_mt25 slide30__img1">
+            </div>
+            <div class="template5__col template5_mt15 text-align_center">
+              <img src="images/my/sao/1_2.jpg" alt="gif" class="slide30__img2">
+            </div>
+          </div>
+          <p class="mainP mainP_mt25">Ответить на отзывы можно прямо в интерфейсе сервиса. При этом ответ владельца
+            сайта будет
+            отмечен как «официальный ответ».
+          </p>
+          <p class="mainP mainP_mt25">Сводка из новых отзывов с разделением на хорошие и плохие, а также примерами,
+            будет
+            собираться каждый день и приходить на почту пользователям, подтвердившим права на сайт в
+            Яндекс.Вебмастере.
+            Для удобства пользователей статистика по отзывам была также добавлена в еженедельную сводку по сайту.
+          </p>
+          <a href="https://webmaster.yandex.ru/blog/vebmaster-novyy-funktsional-v-otzyvakh-na-sayt" target="_blank"
+            class="button button_desktop">Смотреть</a>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://webmaster.yandex.ru/blog/vebmaster-novyy-funktsional-v-otzyvakh-na-sayt" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
         </div>
       </section>
 

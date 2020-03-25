@@ -1320,6 +1320,7 @@ body, div, h1, h2, h3, h4, p, input {
   }
 
   &__row{
+    // border: 1px solid black;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -1332,6 +1333,7 @@ body, div, h1, h2, h3, h4, p, input {
   }
 
   &__col{
+    // border: 1px solid blue;
     width: 49%;
 
     @include sm-block{
@@ -1681,13 +1683,22 @@ body, div, h1, h2, h3, h4, p, input {
   &__img1{
     width: 28%;
 
+    @media (width: 1366px){
+      width: 23%;
+    }
+
     @include sm-block{
       width: 45%;
     }
+    
   }
 
   &__img2{
     width: 24%;
+
+    @media (width: 1366px){
+      width: 20%;
+    }
 
     @include sm-block{
       width: 45%;
@@ -1704,11 +1715,13 @@ body, div, h1, h2, h3, h4, p, input {
   }
 
   &__img{
-    // display: block;
     width: 30%;
-    // margin: 0 auto;
     margin-left: 50%;
     transform: translateX(-50%);
+
+    @media (width: 1366px){
+      width: 15%;
+    }
 
     @include sm-block{
       margin-top: 25px;
@@ -1736,12 +1749,33 @@ body, div, h1, h2, h3, h4, p, input {
 
     @include elg(width, 32%);
     @media (width: 1366px){
-      width: 20%;
+      width: 17%;
     }
     @include lg(width, 20%);
     @include md(width, 50%);
     @include sm(width, 80%);
     @include xxs(width, 100%);
+  }
+}
+
+.slide30{
+
+  &__img2{
+    width: 85%;
+
+    @include lg(width, 65%);
+
+    @media (width: 1366px){
+      width: 60%;
+    }
+  } 
+
+  &__img1{
+    @include lg(width, 60%);
+
+    @media (width: 1366px){
+      width: 50%;
+    }
   }
 }
 
