@@ -196,8 +196,8 @@
           </a>
         </div>
 
-        <a href="https://www.socialmediatoday.com/news/instagrams-testing-a-new-video-response-option-for-igtv/573407/" target="_blank"
-          class="button button_mobile">Смотреть</a>
+        <a href="https://www.socialmediatoday.com/news/instagrams-testing-a-new-video-response-option-for-igtv/573407/"
+          target="_blank" class="button button_mobile">Смотреть</a>
 
         <div class="slide__numof">
           <p class="slide__cur">6</p>
@@ -452,23 +452,23 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: ВКЛЮЧЕНИЕ ПОКАЗОВ РЕКЛАМЫ НА ПЛОЩАДКАХ РСЯ С
+        <h2 class="template2__title mainTitle darkColor">ЯНДЕКС.ДИРЕКТ: ВКЛЮЧЕНИЕ ПОКАЗОВ РЕКЛАМЫ НА ПЛОЩАДКАХ РСЯ С
           ПРОВЕРЕННЫМ
           КАЧЕСТВОМ ТРАФИКА</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP mainP_mt25 colorBlack">На площадках с подтвержденным качеством трафика показы будут
+            <p class="mainP mainP_mt25 darkColor">На площадках с подтвержденным качеством трафика показы будут
               продолжаться
               автоматически, даже если их адреса указаны в списке запрещенных.
             </p>
-            <p class="mainP mainP_mt25 mainP_bold colorBlack">К таким площадкам относятся две категории сайтов:
+            <p class="mainP mainP_mt25 mainP_bold darkColor">К таким площадкам относятся две категории сайтов:
             </p>
-            <p class="mainP mainP_ml20 mainP_mt10 colorBlack"><span class="listDot listDot_black"></span> Работающие
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> Работающие
               на технологии
               Турбо. Это
               площадки с мгновенной загрузкой, качественной мобильной версткой и автоматической расстановкой рекламы;
             </p>
-            <p class="mainP mainP_ml20 mainP_mt10 colorBlack"><span class="listDot listDot_black"></span> Собственные
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> Собственные
               проекты Яндекса.
               Компания
               внимательно следит за конверсионностью рекламных блоков на сайтах своих сервисов, а также за качеством
@@ -510,16 +510,16 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: ВОЗМОЖНОСТЬ ОТКЛЮЧАТЬ РЕКЛАМУ НА ДЕСКТОПАХ И
+        <h2 class="template2__title mainTitle darkColor">ЯНДЕКС.ДИРЕКТ: ВОЗМОЖНОСТЬ ОТКЛЮЧАТЬ РЕКЛАМУ НА ДЕСКТОПАХ И
           УПРАВЛЯТЬ
           ПОКАЗАМИ НА IOS И ANDROID</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP colorBlack">В Директе стало возможно отключить показы на десктопах с помощью корректировки
+            <p class="mainP darkColor">В Директе стало возможно отключить показы на десктопах с помощью корректировки
               ставок. Также появилась возможность разделить аудиторию со смартфонами на iOS и Android.Обновление
               доступно в старом и новом интерфейсах Директа.
             </p>
-            <p class="mainP mainP_mt25 colorBlack">Нововведение позволит продвигать мобильные приложения или специальные
+            <p class="mainP mainP_mt25 darkColor">Нововведение позволит продвигать мобильные приложения или специальные
               предложения без показов на десктопах или для владельцев смартфонов с разными системами. Также это будет
               полезно для рекламодателей, которые используют ссылку на приложение в качестве посадочных страниц не
               только в специальных кампаниях.</p>
@@ -558,16 +558,16 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: ПРОДВИЖЕНИЕ ВИДЕОКОНТЕНТА В ОТКРЫТОЙ БЕТЕ</h2>
+        <h2 class="template2__title mainTitle darkColor">ЯНДЕКС.ДИРЕКТ: ПРОДВИЖЕНИЕ ВИДЕОКОНТЕНТА В ОТКРЫТОЙ БЕТЕ</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP colorBlack">Компании и пользователи, которые создают ролики или обзоры товаров, теперь
+            <p class="mainP darkColor">Компании и пользователи, которые создают ролики или обзоры товаров, теперь
               смогут
               продвигать их в Директе с помощью формата «Продвижение контента». Ролики будут отображаться в сервисе
               Яндекс.Видео, в отдельном блоке над поисковой выдачей по релевантным запросам и с плашкой «Партнерский
               контент».
             </p>
-            <p class="mainP mainP_mt25 colorBlack">Оплата за продвижение видеоконтента будет списываться только за один
+            <p class="mainP mainP_mt25 darkColor">Оплата за продвижение видеоконтента будет списываться только за один
               клик
               по сниппету на выдаче или по блоку просмотра видеоролика, сколько бы ни сделал их пользователь, а размер
               ставки определяет сам рекламодатель.</p>
@@ -606,15 +606,15 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: ШАБЛОНЫ РАСПИСАНИЯ И ПЕРЕНОС КОРРЕКТИРОВОК НА
+        <h2 class="template2__title mainTitle darkColor">ЯНДЕКС.ДИРЕКТ: ШАБЛОНЫ РАСПИСАНИЯ И ПЕРЕНОС КОРРЕКТИРОВОК НА
           ГЕОТАРГЕТИНГ
         </h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP colorBlack">При настройке расписания показов теперь можно воспользоваться шаблонами: только
+            <p class="mainP darkColor">При настройке расписания показов теперь можно воспользоваться шаблонами: только
               рабочее
               время, ежедневно и т. д.</p>
-            <p class="mainP mainP_mt25 colorBlack">Корректировки на геотаргетинг переместились в блок «Корректировки
+            <p class="mainP mainP_mt25 darkColor">Корректировки на геотаргетинг переместились в блок «Корректировки
               ставок». Это
               позволит специалисту задать все корректировки в одном разделе. Механика работы корректировок остается
               прежней, они применяются ко всем объявлениям внутри кампании.</p>
@@ -653,14 +653,14 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">ЯНДЕКС.ДИРЕКТ: НОВАЯ МОДЕЛЬ АТРИБУЦИИ ПО УМОЛЧАНИЮ</h2>
+        <h2 class="template2__title mainTitle darkColor">ЯНДЕКС.ДИРЕКТ: НОВАЯ МОДЕЛЬ АТРИБУЦИИ ПО УМОЛЧАНИЮ</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP colorBlack">В системе изменилась модель атрибуции по умолчанию. Вместо модели «Последний
+            <p class="mainP darkColor">В системе изменилась модель атрибуции по умолчанию. Вместо модели «Последний
               переход» будет
               использоваться «Последний значимый переход». Новая модель помогает лучше понять, как работают разные
               источники привлечения посетителей. Старая модель больше полезна для технического анализа сайта.</p>
-            <p class="mainP mainP_mt25 colorBlack">Теперь в отчетах с данными по источникам трафика по умолчанию выбрана
+            <p class="mainP mainP_mt25 darkColor">Теперь в отчетах с данными по источникам трафика по умолчанию выбрана
               модель
               атрибуции «Последний значимый переход».
               Из-за смены модели атрибуции по умолчанию трафик перераспределится между источниками: внутренних переходов
@@ -700,13 +700,13 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">GOOGLE ADS: ТОВАРНЫЕ ОБЪЯВЛЕНИЯ GOOGLE НАЧНУТ ПОКАЗЫВАТЬСЯ В
+        <h2 class="template2__title mainTitle darkColor">GOOGLE ADS: ТОВАРНЫЕ ОБЪЯВЛЕНИЯ GOOGLE НАЧНУТ ПОКАЗЫВАТЬСЯ В
           GMAIL</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP colorBlack">Рекламодатели смогут выбрать Gmail для стандартных товарных объявлений и
+            <p class="mainP darkColor">Рекламодатели смогут выбрать Gmail для стандартных товарных объявлений и
               объявлений-витрин в качестве плейсмента наравне с YouTube и Discoverу Feed.</p>
-            <p class="mainP mainP_mt25 colorBlack">Google объединит показатели эффективности рекламы на YouTube, Gmail
+            <p class="mainP mainP_mt25 darkColor">Google объединит показатели эффективности рекламы на YouTube, Gmail
               и Discover в
               отчетах по Контекстно-медийной сети. Компания предупреждает, что рекламодатели могут заметить снижение CTR
               в трафике КМС, так как эти показы, вероятно, охватывают пользователей, находящихся выше по воронке продаж,
@@ -746,17 +746,17 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">GOOGLE ADS: НОВЫЕ ДЕЙСТВИЯ-КОНВЕРСИИ ДЛЯ ОТСЛЕЖИВАНИЯ ПРОДАЖ И
+        <h2 class="template2__title mainTitle darkColor">GOOGLE ADS: НОВЫЕ ДЕЙСТВИЯ-КОНВЕРСИИ ДЛЯ ОТСЛЕЖИВАНИЯ ПРОДАЖ И
           ЛИДОВ</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP colorBlack">Google Ads тестирует более детальные варианты действий-конверсий на сайте.
+            <p class="mainP darkColor">Google Ads тестирует более детальные варианты действий-конверсий на сайте.
               На скриншоте видно, что в аккаунте Google Ads появились новые разделы — «Продажи» и «Лиды».
             </p>
-            <p class="mainP mainP_mt25 colorBlack">В категории «Продажи» доступны следующие действия-конверсии: покупка,
+            <p class="mainP mainP_mt25 darkColor">В категории «Продажи» доступны следующие действия-конверсии: покупка,
               добавление
               в корзину, начало, оформления заказа, подписка.</p>
-            <p class="mainP mainP_mt25 colorBlack">Категория «Лиды» содержит такие действия: отправка формы, бронь,
+            <p class="mainP mainP_mt25 darkColor">Категория «Лиды» содержит такие действия: отправка формы, бронь,
               регистрация,
               запрос цены, получение инструкции, исходящий клик.</p>
           </div>
@@ -794,16 +794,16 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">GOOGLE ADS: УПРОЩЕННЫЙ ОБМЕН СПИСКАМИ АУДИТОРИЙ ВНУТРИ
+        <h2 class="template2__title mainTitle darkColor">GOOGLE ADS: УПРОЩЕННЫЙ ОБМЕН СПИСКАМИ АУДИТОРИЙ ВНУТРИ
           УПРАВЛЯЮЩЕГО
           АККАУНТА</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP colorBlack">Пользователи Google Ads смогут непрерывно обмениваться списками аудиторий между
+            <p class="mainP darkColor">Пользователи Google Ads смогут непрерывно обмениваться списками аудиторий между
               учетными
               записями внутри одного управляющего аккаунта.
             </p>
-            <p class="mainP mainP_mt25 colorBlack">Чтобы предоставить другим аккаунтам Google Ads доступ к списку
+            <p class="mainP mainP_mt25 darkColor">Чтобы предоставить другим аккаунтам Google Ads доступ к списку
               аудиторий,
               клиентский (дочерний) аккаунт должен открыть этот список для управляющего аккаунта и добавить его в набор
               общих списков управляющего аккаунта. Затем управляющий аккаунт сможет открыть список для других
@@ -843,14 +843,14 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template2__title mainTitle colorBlack">GOOGLE ADS: ДИАГРАММЫ В ОТЧЕТЕ ПО ИСТОРИИ ИЗМЕНЕНИЙ</h2>
+        <h2 class="template2__title mainTitle darkColor">GOOGLE ADS: ДИАГРАММЫ В ОТЧЕТЕ ПО ИСТОРИИ ИЗМЕНЕНИЙ</h2>
         <div class="template2__content">
           <div class="template2__left">
-            <p class="mainP colorBlack">Рекламодатели Google Ads получат возможность просматривать заметки об изменениях
+            <p class="mainP darkColor">Рекламодатели Google Ads получат возможность просматривать заметки об изменениях
               на графиках, отражающих эффективность работы кампании. Их можно будет увидеть в разделе «История
               изменений». Новинка поможет разобраться, какие изменения и как повлияли на эффективность рекламы.
             </p>
-            <p class="mainP mainP_mt25 colorBlack">Кроме того, изменения можно отфильтровать в таблице, например,
+            <p class="mainP mainP_mt25 darkColor">Кроме того, изменения можно отфильтровать в таблице, например,
               по кампании, типу
               изменений, пользователю, а также построить график с опорой на нужные показатели. Над таблицей
               рекламодатель сможет увидеть количество изменений по типам: по аудитории, бюджетам, ключевым словам, цели
@@ -1141,8 +1141,8 @@
           </div>
           <div class="slide25__bottom template5_mt15">
             <img src="images/my/media/5_1.png" alt="gif" class="slide25__img1">
-            <a href="https://www.mediapost.com/publications/article/348299/voice-activated-ads-are-hear-er-here.html?edition=" target="_blank"
-              class="button button_desktop">Смотреть</a>
+            <a href="https://www.mediapost.com/publications/article/348299/voice-activated-ads-are-hear-er-here.html?edition="
+              target="_blank" class="button button_desktop">Смотреть</a>
             <img src="images/my/media/5_2.gif" alt="gif" class="slide25__img2">
           </div>
 
@@ -1161,8 +1161,8 @@
           </a>
         </div>
 
-        <a href="https://www.mediapost.com/publications/article/348299/voice-activated-ads-are-hear-er-here.html?edition=" target="_blank"
-          class="button button_mobile">Смотреть</a>
+        <a href="https://www.mediapost.com/publications/article/348299/voice-activated-ads-are-hear-er-here.html?edition="
+          target="_blank" class="button button_mobile">Смотреть</a>
 
         <div class="slide__numof">
           <p class="slide__cur">6</p>
