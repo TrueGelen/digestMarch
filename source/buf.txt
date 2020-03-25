@@ -1004,7 +1004,6 @@
           <p class="slide__of">/ 84</p>
         </div>
       </section>
-      <!-- Отсюда чекал 1366-->
       <!-- slide 23-->
       <section class="slide template3 bg1_1" id="slideNumber23">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
