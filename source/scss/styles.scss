@@ -533,6 +533,12 @@ body, div, h1, h2, h3, h4, p, input {
       font-size: 14px;
     }
   }
+
+  &_1366_fs12{
+    @media (width: 1366px){
+      font-size: 12px;
+    }
+  }
 }
 
 .mainTitle{
@@ -1115,6 +1121,10 @@ body, div, h1, h2, h3, h4, p, input {
     @include xs-block{
       font-size: 9vw;
       width: 100%;
+    }
+
+    &_dark{
+      color:#004717;
     }
   }
 }
@@ -1884,6 +1894,77 @@ body, div, h1, h2, h3, h4, p, input {
 
     @media (width: 1366px){
       width: 65%;
+    }
+  }
+}
+
+.slide41{
+
+  &__content{
+    @include sm-block{
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+
+  &__lift{
+
+    @include sm-block{
+      width: 70%;
+    }
+  }
+
+  &__right{
+    @include sm-block{
+      width: 100%;
+    }    
+  }
+
+  &_p{
+    @media (max-width: 1450px) and (min-width: 1051px){
+      font-size: 14px;
+      // margin-top: 5px;
+    }
+
+    @media (max-width: 768px) and (min-width: 561px){
+      font-size: 14px;
+    }
+  }
+
+  &__img{
+    @media (max-width: 1200px) and (min-width: 1051px){
+      width: 75%;
+    }
+  }
+}
+
+.slide42{
+
+  &__left{
+    width: 30%;
+
+    @media (width: 1366px){
+      width: 25%;
+    }
+
+    @include sm(width, 32%);
+    @include xs(width, 100%);
+  }
+
+  &__right{
+    width: 67%;
+
+    @include sm(width, 65%);
+  }
+
+  &__img{
+    @include xs(width, 35%);
+  }
+
+  &__p{
+    
+    @media (max-width: 1200px) and (min-width: 1051px){
+      font-size: 14px;
     }
   }
 }
