@@ -228,9 +228,10 @@
           </div>
           <div class="template2__right text-align_center">
             <img src="images/my/smm/3.jpg" alt="Facebook" class="text-align_center">
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -242,7 +243,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://techcrunch.com/2020/03/09/facebook-to-instagram-cross-posting/" target="_blank"
           class="button button_mobile">Смотреть</a>
@@ -276,9 +276,10 @@
           </div>
           <div class="template2__right text-align_center">
             <img src="images/my/smm/4.jpg" alt="vk" class="template2__img text-align_center slide7__img">
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -290,7 +291,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://vk.com/business?w=wall-19542789_116117" target="_blank"
           class="button button_mobile">Смотреть</a>
@@ -334,9 +334,10 @@
             <img src="images/my/smm/5.png" alt="vk" class="text-align_center slide8__img">
             <a href="https://gorodfinansov.ru/istochnik-vkontakte-zapustit-eksperimentalnyj-servis-korotkih-video-v-duhe-tiktok-material-redaktsii.html"
               target="_blank" class="button button_desktop slide8__button">Смотреть</a>
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -348,7 +349,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://gorodfinansov.ru/istochnik-vkontakte-zapustit-eksperimentalnyj-servis-korotkih-video-v-duhe-tiktok-material-redaktsii.html"
           target="_blank" class="button button_mobile">Смотреть</a>
@@ -396,9 +396,10 @@
             <img src="images/my/smm/6_2.jpg" alt="vk" class="template2__img text-align_center slide9__img2">
             <a href="https://www.rbc.ru/business/28/02/2020/5e57ab2b9a7947adad525c0e" target="_blank"
               class="button button_desktop">Смотреть</a>
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -410,7 +411,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://www.rbc.ru/business/28/02/2020/5e57ab2b9a7947adad525c0e" target="_blank"
           class="button button_mobile">Смотреть</a>
@@ -480,9 +480,10 @@
             <img src="images/my/sac/1.png" alt="vk" class="text-align_center">
             <a href="https://yandex.ru/adv/news/vklyuchenie-pokazov-reklamy-na-ploschadkakh-rsya-s-proverennym-kachestvom-trafika"
               target="_blank" class="button button_desktop">Смотреть</a>
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -494,7 +495,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://yandex.ru/adv/news/vklyuchenie-pokazov-reklamy-na-ploschadkakh-rsya-s-proverennym-kachestvom-trafika"
           target="_blank" class="button button_mobile">Смотреть</a>
@@ -528,9 +528,10 @@
             <img src="images/my/sac/2.png" alt="yandex direct" class="text-align_center">
             <a href="https://yandex.ru/adv/news/natselivanie-na-polzovateley-smartfonov-teper-i-v-performanse"
               target="_blank" class="button button_desktop">Смотреть</a>
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -542,7 +543,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://yandex.ru/adv/news/natselivanie-na-polzovateley-smartfonov-teper-i-v-performanse"
           target="_blank" class="button button_mobile">Смотреть</a>
@@ -576,9 +576,10 @@
             <img src="images/my/sac/3.png" alt="yandex direct" class="text-align_center">
             <a href="https://yandex.ru/adv/news/prodvizhenie-videokontenta-v-yandeks-direkte-v-otkrytoy-bete"
               target="_blank" class="button button_desktop">Смотреть</a>
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -590,7 +591,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://yandex.ru/adv/news/prodvizhenie-videokontenta-v-yandeks-direkte-v-otkrytoy-bete"
           target="_blank" class="button button_mobile">Смотреть</a>
@@ -623,9 +623,10 @@
             <img src="images/my/sac/4.png" alt="yandex direct" class="text-align_center">
             <a href="https://yandex.ru/adv/news/prezhnie-vozmozhnosti-v-novom-dizayne-uluchshennaya-stranitsa-tekstovo-graficheskikh-kampaniy-i-novoe-v-interfeyse-yandeks-direkta"
               target="_blank" class="button button_desktop">Смотреть</a>
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -637,7 +638,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://yandex.ru/adv/news/prezhnie-vozmozhnosti-v-novom-dizayne-uluchshennaya-stranitsa-tekstovo-graficheskikh-kampaniy-i-novoe-v-interfeyse-yandeks-direkta"
           target="_blank" class="button button_mobile">Смотреть</a>
@@ -670,9 +670,10 @@
             <img src="images/my/sac/5.png" alt="yandex direct" class="text-align_center">
             <a href="https://yandex.ru/blog/metrika/default-attribution-last-non-direct" target="_blank"
               class="button button_desktop">Смотреть</a>
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -684,7 +685,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://yandex.ru/blog/metrika/default-attribution-last-non-direct" target="_blank"
           class="button button_mobile">Смотреть</a>
@@ -764,9 +764,10 @@
             <img src="images/my/sac/7.png" alt="yandex direct" class="text-align_center">
             <a href="https://twitter.com/abilitydesigns/status/1229455782409670664" target="_blank"
               class="button button_desktop">Смотреть</a>
-          </div>
+          </div>          
+        </div>
 
-          <div class="slide__buttons">
+        <div class="slide__buttons">
             <a href="#slideNumber4" class="slide__button slide__button_left">
               <svg>
                 <use xlink:href="svgSprite/sprite.svg#chevron"></use>
@@ -778,7 +779,6 @@
               </svg>
             </a>
           </div>
-        </div>
 
         <a href="https://twitter.com/abilitydesigns/status/1229455782409670664" target="_blank"
           class="button button_mobile">Смотреть</a>
@@ -1338,8 +1338,9 @@
             </svg>
           </a>
         </div>
+      </section>
       <!-- slide 29 -->
-      <section class="slide template1 bg1_1" id="searchandoptimization">
+      <section class="slide template1 bg1_3" id="searchandoptimization">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
@@ -1365,17 +1366,17 @@
         </div>
       </section>
       <!-- slide 30 -->
-      <section class="slide template5 bg1_1 slide30" id="slideNumber30">
+      <section class="slide template5 bg1_3 slide30" id="slideNumber30">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
-        <h2 class="template5__title mainTitle">ЯНДЕКС.ВЕБМАСТЕР ДОБАВИЛ НОВЫЙ ФУНКЦИОНАЛ В ОТЗЫВАХ НА САЙТ</h2>
+        <h2 class="template5__title mainTitle darkColor">ЯНДЕКС.ВЕБМАСТЕР ДОБАВИЛ НОВЫЙ ФУНКЦИОНАЛ В ОТЗЫВАХ НА САЙТ</h2>
         <div class="template5__content template5_mt15">
           <div class="template5__row">
             <div class="template5__col template5_mt15 text-align_center">
-              <p class="mainP">Яндекс.Вебмастер позволил сортировать отзывы. Это поможет владельцам сайтов
+              <p class="mainP darkColor">Яндекс.Вебмастер позволил сортировать отзывы. Это поможет владельцам сайтов
                 вовремя отслеживать мнение клиентов и реагировать на жалобы.</p>
-              <p class="mainP mainP_mt25">
+              <p class="mainP mainP_mt25 darkColor">
                 Сортировка отзывов по дате, релевантности, популярности и рейтингу доступна в разделе «Отзывы»
                 Вебмастера.
               </p>
@@ -1385,11 +1386,11 @@
               <img src="images/my/sao/1_2.jpg" alt="gif" class="slide30__img2">
             </div>
           </div>
-          <p class="mainP mainP_mt25">Ответить на отзывы можно прямо в интерфейсе сервиса. При этом ответ владельца
+          <p class="mainP mainP_mt25 darkColor">Ответить на отзывы можно прямо в интерфейсе сервиса. При этом ответ владельца
             сайта будет
             отмечен как «официальный ответ».
           </p>
-          <p class="mainP mainP_mt25">Сводка из новых отзывов с разделением на хорошие и плохие, а также примерами,
+          <p class="mainP mainP_mt25 darkColor">Сводка из новых отзывов с разделением на хорошие и плохие, а также примерами,
             будет
             собираться каждый день и приходить на почту пользователям, подтвердившим права на сайт в
             Яндекс.Вебмастере.
@@ -1418,6 +1419,504 @@
         <div class="slide__numof">
           <p class="slide__cur">6</p>
           <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 31 -->
+      <section class="slide template2 bg1_3 slide31" id="slideNumber31">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">SAFARI НАЧНЕТ ОТКЛОНЯТЬ HTTPS-СЕРТИФИКАТЫ СО СРОКОМ ДЕЙСТВИЯ
+          БОЛЕЕ 13 МЕСЯЦЕВ
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left slide31__left">
+            <p class="mainP darkColor">Компания Apple объявила, что позже в этом году браузер Safari начнёт отклонять
+              новые HTTPS-сертификаты со сроком действия более 13 месяцев (398 дней).
+            </p>
+            <p class="mainP mainP_mt25 darkColor">Это изменение коснётся сертификатов, выпущенных начиная с 1 сентября
+              2020. Новые правила не распространяются на сертификаты, выданные до этой даты.
+              При отклонении сертификата пользователи сайта будут видеть предупреждение безопасности.</p>
+            <p class="mainP mainP_mt25 darkColor">Как отмечает The Register, такие сайты, как GitHub и Microsoft, имеют
+              сертификаты со сроком действия 2 года. Согласно правилам Apple, если они получат новый двухгодичный
+              сертификат в сентябре, то он будет отклоняться.</p>
+            <p class="mainP mainP_mt25 darkColor">Ранее центры сертификации выпускали сертификаты со сроком действия
+              более 5 лет. В 2017 году максимальный период валидности был сокращён до 825 дней.
+            </p>
+          </div>
+          <div class="template2__right text-align_center slide31__right">
+            <img src="images/my/sao/2.gif" alt="yandex direct" class="text-align_center">
+            <a href="https://www.searchengines.ru/safari-https.html" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+        <p class="mainP mainP_mt25 darkColor">Для пользователей новый порог означает, что посещаемые ими сайты
+          соответствуют новейшим стандартам в области шифрования и безопасности.
+          Что касается разработчиков и владельцев сайтов, то для них новые правила означают увеличение рабочей
+          нагрузки по управлению сертификатами.
+        </p>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://www.searchengines.ru/safari-https.html" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 32 -->
+      <section class="slide template2 bg1_3" id="slideNumber32">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">ЯНДЕКС.ВЕБМАСТЕР ДОБАВИЛ НОВЫЕ ПАРАМЕТРЫ ДЛЯ СРАВНЕНИЯ САЙТОВ
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP darkColor">Яндекс.Вебмастер добавил новые параметры на страницу качества, с помощью которых
+              будет легче сравнивать сайты.</p>
+            <p class="mainP mainP_bold mainP_mt25 darkColor">Теперь вебмастера cмогут сопоставлять сайты по следующим
+              параметрам:</p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> наличие профиля
+              в Яндекс.Справочнике;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> рейтинг
+              магазина на Яндекс.Маркете;</p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> наличие
+              мобильных приложений в Google Play и App Store.</p>
+            <p class="mainP mainP_mt25 darkColor">Яндекс сообщает, что данный функционал позволит эффективнее работать
+              над качеством сайта и делать его более привлекательным для пользователей.
+            </p>
+            <p class="mainP mainP_mt25 darkColor">Подробнее об отслеживании показателей качества можно прочитать в
+              Помощи.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sao/3.png" alt="yandex direct" class="text-align_center">
+            <a href="https://webmaster.yandex.ru/blog/obnovlennaya-stranitsa-kachestva-kak-mozhno-sravnivat-sayty"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://webmaster.yandex.ru/blog/obnovlennaya-stranitsa-kachestva-kak-mozhno-sravnivat-sayty"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 33 -->
+      <section class="slide template2 bg1_3" id="slideNumber33">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">GOOGLE ANALYTICS ЗАПУСТИЛ КОГОРТНЫЙ АНАЛИЗ ДЛЯ РЕСУРСОВ
+          «ПРИЛОЖЕНИЕ И САЙТ»
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP darkColor">Google Analytics запустил когортный анализ для ресурсов «Приложение и сайт» (App
+              + Web). С его помощью можно будет сравнивать поведение групп пользователей, имеющих общие признаки.</p>
+            <p class="mainP mainP_mt25 darkColor">Когортный анализ в Analytics позволяет просмотреть максимум 60 когорт.
+              Анализ начинается с поиска пользователей, которые удовлетворяют выбранным критериям. Можно настроить
+              период анализа: день, неделю или месяц.</p>
+            <p class="mainP mainP_mt25 darkColor">В настоящее время нельзя применить сегменты или создать аудитории из
+              когортного анализа. Эти функции станут доступны в будущем, сообщил Google.</p>
+            <p class="mainP mainP_mt25 darkColor">Напомним, в конце прошлого года Google Analytics объявил о запуске
+              новых функций для ресурсов «Приложение и сайт»: автоматической статистике, поддержке многопотокового
+              анализа и других.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sao/4.png" alt="yandex direct" class="text-align_center">
+            <a href="https://support.google.com/analytics/answer/9670133" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://support.google.com/analytics/answer/9670133" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 34 -->
+      <section class="slide template2 bg1_3 slide34" id="slideNumber34">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">АЛИСА НАУЧИЛАСЬ ОЗВУЧИВАТЬ ТЕКСТЫ НА СТРАНИЦАХ В
+          ЯНДЕКС.БРАУЗЕРЕ
+        </h2>
+        <div class="template2__content">
+          <div class="template2__left slide34__left">
+            <p class="mainP darkColor">Голосовой помощник Яндекса Алиса теперь умеет озвучивать тексты на страницах в
+              Яндекс.Браузере. Ее можно попросить прочесть статью, пост в блоге или даже стихотворение — и заниматься
+              своими делами.</p>
+            <p class="mainP mainP_mt25 darkColor">Страницы, где есть большой связный текст, Алиса озвучивает целиком.
+              Причем читает только основной текст, не обращая внимания на кнопки, баннеры, пункты меню и другие
+              посторонние элементы. Например, можно включить в Браузере статью, до которой никак не доходили руки, и под
+              интересный рассказ разбирать фотографии.</p>
+            <p class="mainP mainP_mt25 darkColor">Чтобы Алиса озвучила всю страницу, нужно нажать кнопку с наушниками:
+              она появляется на страницах, где Браузер умеет включать режим чтения. На компьютере можно обойтись без
+              кнопки и просто сказать: «Слушай, Алиса, прочитай эту страницу». Кроме того, Алиса умеет читать фрагменты
+              текста — например отдельные новости. Для этого достаточно выделить фрагмент и выбрать «Озвучить» в
+              контекстном меню. Это можно сделать на любой странице.</p>
+            <p class="mainP mainP_mt25 darkColor">Напомним, Яндекс начал тестировать озвучку текстов в Браузере в конце
+              декабря, а теперь новая возможность доступна всем пользователям устройств на Android и компьютеров с
+              Windows. Пока озвучка работает только на русском языке.
+            </p>
+          </div>
+          <div class="template2__right text-align_center slide34__right">
+            <img src="images/my/sao/5.png" alt="yandex direct" class="text-align_center">
+            <a href="https://www.searchengines.ru/alisa-ozvuchivaet-teksty.html" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://www.searchengines.ru/alisa-ozvuchivaet-teksty.html" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 35 -->
+      <section class="slide template2 bg1_3 slide35" id="slideNumber35">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">КАК РАСШИРЕННЫЕ ФУНКЦИИ ПОИСКА GOOGLE ВЛИЯЮТ НА CTR
+          ОРГАНИЧЕСКИХ РЕЗУЛЬТАТОВ
+        </h2>
+
+        <p class="mainP mainP_mt25 darkColor">Компания Perficient Digital изучила, как влияют различные дополнительные
+          функции поиска Google на CTR органических результатов. В рамках исследования эксперты проанализировали свыше
+          250 млн запросов за 30 дней.</p>
+        <p class="mainP mainP_mt25 mainP_bold darkColor">Ключевые выводы исследования:</p>
+        <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> В среднем в поиске
+          Google около
+          44%
+          составляют различные no-click результаты, то есть быстрые ответы на запросы, которые включают блоки с
+          ответами, карусели и т. п. Для десктопных устройств доля таких результатов – 33,5%, для мобильных – 54,6%.;
+        </p>
+        <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> Если в SERP
+          присутствует реклама
+          по
+          коммерческим запросам, то количество no-click результатов резко снижается – до 13,9% на десктопных
+          устройствах..</p>
+
+        <div class="template2__content slide35__content">
+          <div class="template2__left">
+            <p class="mainP mainP_ml20 darkColor"><span class="listDot listDot_black"></span> Показатель CTR для
+              брендовых запросов для первой позиции выдачи составляет около 70%. Для небрендовых CTR у ТОП-1 составляет
+              менее 20%. На этой основе эксперты Perficient Digital полагают, что традиционные модели CTR являются в
+              значительной степени бессмысленными, так как не учитывают разницу в типах запросов.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sao/6.png" alt="yandex direct" class="text-align_center slide35__img">
+            <a href="https://www.seonews.ru/events/kak-rasshirennye-funktsii-poiska-google-vliyayut-na-ctr-organicheskikh-rezultatov/"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://www.seonews.ru/events/kak-rasshirennye-funktsii-poiska-google-vliyayut-na-ctr-organicheskikh-rezultatov/"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 36 -->
+      <section class="slide template2 bg1_3 slide36" id="slideNumber36">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">КАК РАСШИРЕННЫЕ ФУНКЦИИ ПОИСКА GOOGLE ВЛИЯЮТ НА CTR
+          ОРГАНИЧЕСКИХ РЕЗУЛЬТАТОВ (ПРОДОЛЖЕНИЕ)
+        </h2>
+
+        <div class="template2__content">
+          <div class="template2__left slide36__left">
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> вопреки
+              расхожему мнению, блоки с ответами Featured Snippets в целом не влияют на CTR. Нередко считают, что
+              пользователи получают из таких блоков всю необходимую информацию и не переходят на другие сайты.
+              Исследование показало, что CTR для запросов с Featured Snippets был немного выше, чем для запросов без
+              них, но разница оказалась незначительной. В некоторых случаях блок с ответом ответил на запрос, из-за чего
+              пользователь не кликал на результаты, в других привел к более высокому CTR для сайтов, из который был
+              сформирован блок с ответом.</p>
+            <p class="mainP mainP_mt25 mainP_bold darkColor">На основе
+              исследования эксперты дали несколько рекомендаций владельцам сайтов:</p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> попытаться
+              оптимизировать ресурсы под расширенные функции SERP (карусели, блоки с ответами, локальные блоки);
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> создавать
+              контент под запросы с длинным хвостом, так как на них приходится более 70% всех поисковых запросов к
+              Google. При этом поисковик под такие запросы часто не может предоставить no-click результаты.
+            </p>
+          </div>
+          <div class="template2__right text-align_center slide36__right">
+            <img src="images/my/sao/7.png" alt="yandex direct" class="text-align_center">
+            <a href="https://searchengineland.com/analysis-of-250-million-serps-finds-no-click-story-more-complex-than-it-appears-330224"
+              target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://searchengineland.com/analysis-of-250-million-serps-finds-no-click-story-more-complex-than-it-appears-330224"
+          target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 37 -->
+      <section class="slide template2 bg1_3" id="slideNumber37">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">НАСКОЛЬКО ПОЛЬЗОВАТЕЛИ ДОВЕРЯЮТ РЕЗУЛЬТАТАМ ПОИСКА GOOGLE</h2>
+
+        <p class="mainP mainP_mt25 darkColor mainP_1366_fs14"> Пользователи часто склонны доверять информации,
+          представленной в поиске
+          Google. Многие из них даже принимают важные решения на основе поисковых результатов. К таким выводам пришла
+          компания Path Interactive, которая провела опрос и выяснила, насколько пользователи доверяют информации,
+          представленной в выдаче Google.</p>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP mainP_bold darkColor mainP_1366_fs14">Ключевые выводы исследования:
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor mainP_1366_fs14 mainP_1366_mt0"><span
+                class="listDot listDot_black"></span>
+              Последние
+              обновления алгоритмов были направлены на то, чтобы улучшить релевантность и точность информации в
+              категории YMYL (your money, your life). Оказалось, не зря. 51% респондентов сообщили, что «очень часто»
+              или «часто» принимают важные решения в финансовой сфере, основываясь на информации из поиска Google;
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor mainP_1366_fs14 mainP_1366_mt0"><span
+                class="listDot listDot_black"></span>
+              39% опрошенных
+              принимают важные решения на основе поисковых результатов, касающихся юридической информации, 46% –
+              ориентируются на сведения из Google при принятии важных медицинских решений.;
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor mainP_1366_fs14 mainP_1366_mt0"><span
+                class="listDot listDot_black"></span>
+              только 10-13%
+              опрошенных никогда не принимают жизненно важных решений на основе результатов поиска.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sao/8.png" alt="yandex direct" class="text-align_center slide37__img">
+            <!-- <a href="https://searchengineland.com/analysis-of-250-million-serps-finds-no-click-story-more-complex-than-it-appears-330224"
+              target="_blank" class="button button_desktop">Смотреть</a> -->
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <!-- <a href="https://searchengineland.com/analysis-of-250-million-serps-finds-no-click-story-more-complex-than-it-appears-330224"
+          target="_blank" class="button button_mobile">Смотреть</a> -->
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 38 -->
+      <section class="slide template2 bg1_3 slide38" id="slideNumber38">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">НАСКОЛЬКО ПОЛЬЗОВАТЕЛИ ДОВЕРЯЮТ РЕЗУЛЬТАТАМ ПОИСКА GOOGLE
+          (ПРОДОЛЖЕНИЕ)</h2>
+
+        <p class="mainP mainP_ml20 mainP_mt0 darkColor mainP_1366_fs14"><span class="listDot listDot_black"></span>
+          72% респондентов считают, что по запросам, связанным с медицинской тематикой, результаты в Google стали лучше
+          и точнее. Особенно в этом убеждены молодые пользователи в возрасте 18–25 лет (75%);
+        </p>
+        <p class="mainP mainP_ml20 mainP_mt10 darkColor mainP_1366_fs14"><span class="listDot listDot_black"></span> 66%
+          опрошенных
+          сообщили, что для них очень важно, чтобы поисковик по медицинским запросам показывал медицинские сайты с
+          проверенной информацией. 14% указали, что по медицинским запросам предпочитают видеть более разнообразные
+          результаты, в том числе контент с ресурсов по натуральной медицине.</p>
+        <p class="mainP mainP_ml20 mainP_mt10 darkColor mainP_1366_fs14"><span class="listDot listDot_black"></span> 61%
+          пользователей
+          согласны с тем, что Google улучшил показ результатов для новостного и политического контента.</p>
+
+        <div class="template2__content slide38__content">
+          <div class="template2__left">
+            <p class="mainP mainP_ml20 darkColor mainP_1366_fs14"><span class="listDot listDot_black"></span>
+              несмотря на борьбу Google с дезинформацией в результатах поиска, 70% пользователей сообщили, что иногда
+              сталкиваются с дезинформацией в выдаче. 29% опрошенных редко или никогда не встречают дезинформацию в
+              поиске;
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor mainP_1366_fs14"><span class="listDot listDot_black"></span>
+              исследование показало, что молодые пользователи склонны чаще доверять информации в результатах поиска.
+              Пользователи старшего возраста чаще скептически относятся к сведениям, показанным Google;
+            </p>
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor mainP_1366_fs14"><span class="listDot listDot_black"></span>
+              в опросе приняли участие 1100 респондентов. 70% из них проживают в США, 21% в Индии, 5% в Европе.</p>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/sao/9.png" alt="yandex direct" class="text-align_center slide38__img">
+            <a href="https://moz.com/blog/2020-google-search-survey" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://moz.com/blog/2020-google-search-survey" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 39 -->
+      <section class="slide template1 bg1_3" id="production">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
+        <img src="images/my/logo_nectarin_2.png" alt="logo nectarin" class="slide__logo slide__logo_big">
+        <h2 class="template1__title">PRODUCTION</h2>
+
+        <div class="slide__numof slide__numof_pur">
+          <p class="slide__cur">7</p>
+          <p class="slide__of">/ 52</p>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber9" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber11" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
         </div>
       </section>
 
