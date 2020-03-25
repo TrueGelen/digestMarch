@@ -426,7 +426,7 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
         <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
-        <h2 class="template1__title">Search and<br> Context</h2>
+        <h2 class="template1__title template1__title_dark">Search and<br> Context</h2>
 
         <div class="slide__numof">
           <p class="slide__cur">7</p>
@@ -1352,7 +1352,7 @@
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
         <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
-        <h2 class="template1__title">SEARCH AND<br>OPTIMIZATION</h2>
+        <h2 class="template1__title template1__title_dark">SEARCH AND<br>OPTIMIZATION</h2>
 
         <div class="slide__numof">
           <p class="slide__cur">7</p>
@@ -1918,7 +1918,7 @@
         </div>
       </section>
       <!-- slide 39 -->
-      <section class="slide template1 bg1_3" id="production">
+      <section class="slide template1 bg1_1" id="production">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
@@ -2234,13 +2234,13 @@
         </div>
       </section>
       <!-- slide 45 -->
-      <section class="slide template1 bg1_1" id="smmcases">
+      <section class="slide template1 bg1_3" id="smmcases">
         <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
         <img src="images/my/bg/ellipse.png" alt="ellipse" class="slide__ellipse">
         <img src="images/my/logo_nectarin_2.png" alt="logo nectarin" class="slide__logo slide__logo_big">
-        <h2 class="template1__title">SMM CASES</h2>
+        <h2 class="template1__title template1__title_dark">SMM CASES</h2>
 
         <div class="slide__numof">
           <p class="slide__cur">7</p>
@@ -2258,6 +2258,225 @@
               <use xlink:href="svgSprite/sprite.svg#chevron"></use>
             </svg>
           </a>
+        </div>
+      </section>
+      <!-- slide 46 -->
+      <section class="slide template2 bg1_3" id="slideNumber46">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">ЕДИНАЯ ЛЕНТА ОТ ПЛАНЕТЫ КИНО
+        </h2>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP darkColor">Коллаборация самых безумных образов, неудержимый полет фантазии, трендовая
+              цветовая гамма, связная лента – просмотр этого аккаунта доставляет эстетическое наслаждение. Но остается
+              нерешенным вопрос: как авторам приходит такое в голову?
+            </p>
+            <a href="https://www.instagram.com/planetakino/" target="_blank" class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/smmcases/1.png" alt="yandex direct" class="text-align_center">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://www.instagram.com/planetakino/" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 47-->
+      <section class="slide template3 bg1_3" id="slideNumber47">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right darkColor">ВАН ГОГ В МАГНИТЕ
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/smmcases/2.png" alt=" instagram" class="template3__img slide47__img">
+            <a href="https://www.instagram.com/p/B9tHyOEFKZY/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0 darkColor">А почему бы и нет? В конце концов, известный художник пришел в
+              супермаркет не за
+              продуктами, а за вдохновением. Как и многие подписчики заходят в аккаунт «Магнита».
+            </p>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.instagram.com/p/B9tHyOEFKZY/" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 48 -->
+      <section class="slide template2 bg1_3" id="slideNumber48">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template2__title mainTitle darkColor">FANTA В ТРЕНДЕ 90-Х
+        </h2>
+
+        <div class="template2__content">
+          <div class="template2__left">
+            <p class="mainP darkColor">Так совпало, что Fanta стала следовать трендам 90-х, а тут еще и инфоповод
+              подходящий – #NationalRetroDay. Получился прикольный моушен с обыгрыванием культовой сцены из пасьянса
+              «Косынка» на Windows XP.
+            </p>
+            <a href="https://www.instagram.com/p/B9EpW9Ol41t/" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+          <div class="template2__right text-align_center">
+            <img src="images/my/smmcases/3.png" alt="yandex direct" class="text-align_center">
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber4" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber6" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+
+        <a href="https://www.instagram.com/p/B9EpW9Ol41t/" target="_blank" class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">5</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 49-->
+      <section class="slide template3 bg1_3 slide49" id="slideNumber49">
+        <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+
+        <h2 class="template3__title mainTitle template3__title_right darkColor">КОЛЛАБОРАЦИЯ ПЕРЕКРЁСТКА И РЕТРОГРАДНОГО
+          МЕРКУРИЯ
+        </h2>
+
+        <div class="template3__content">
+          <div class="template3__left text-align_center">
+            <img src="images/my/smmcases/4.jpg" alt=" instagram" class="template3__img slide49__img">
+
+          </div>
+          <div class="template3__right">
+            <p class="mainP mainP_mt0 darkColor">В период ретроградного Меркурия торговая сеть Перекрёсток делилась
+              прогнозами и списком товаров, которые помогут пережить непростой астрологический период.
+              Совместный спецпроект с телеграм-каналом Ретроградный Меркурий получил название «Меркурий, дай еды!».
+            </p>
+            <a href="https://www.sostav.ru/publication/podborka-promo-i-didzhital-42174.html" target="_blank"
+              class="button button_desktop">Смотреть</a>
+          </div>
+        </div>
+
+        <div class="slide__buttons">
+          <a href="#slideNumber5" class="slide__button slide__button_left">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+          <a href="#slideNumber7" class="slide__button slide__button_right">
+            <svg>
+              <use xlink:href="svgSprite/sprite.svg#chevron"></use>
+            </svg>
+          </a>
+        </div>
+
+        <a href="https://www.sostav.ru/publication/podborka-promo-i-didzhital-42174.html" target="_blank"
+          class="button button_mobile">Смотреть</a>
+
+        <div class="slide__numof">
+          <p class="slide__cur">6</p>
+          <p class="slide__of">/ 84</p>
+        </div>
+      </section>
+      <!-- slide 50 -->
+      <section class="slide lastSlide bg1_1" id="slideNumber50">
+        <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
+        <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
+        <img src="images/my/bg/upperDots.png" alt="upper dots" class="slide__upperDots">
+        <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
+        <!-- <img src="images/my/logo_nectarin.png" alt="logo nectarin" class="slide__logo slide__logo_big"> -->
+
+        <div class="lastSlide__content">
+          <h1 class="mainTitle lastSlide__title">МЫ МОЖЕМ ТАК ЖЕ, ТОЛЬКО КРУЧЕ.</h1>
+          <p class="mainP mainP_mt25 lastSlide__subtitle"><span class="mainP_bold">В нашей команде
+              работают</span><br>
+            <span class="mainTitle">300</span> высококлассных специалистов.</p>
+
+          <adress class="lastSlide__contact lastSlide__contact_1">
+            <img src="images/my/51_1.png" alt="adress" class="lastSlide__contactIcon">
+            <div class="lastSlide__contactText">
+              <p class="mainP mainP_bold mainP_mt0 lastSlide__contactTitle">Адрес:</p>
+              <p class="mainP mainP_mt0 lastSlide__contactAdress">109028, Москва, ул. Воронцово
+                Поле, 5</p>
+            </div>
+          </adress>
+          <adress class="lastSlide__contact">
+            <img src="images/my/51_2.png" alt="adress" class="lastSlide__contactIcon">
+            <div class="lastSlide__contactText">
+              <p class="mainP mainP_bold mainP_mt0 lastSlide__contactTitle">Контактная информация:
+              </p>
+              <a href="mailto: info@nectarin.ru" class="mainP mainP_mt0 lastSlide__contactAdress">info@nectarin.ru</a>
+            </div>
+          </adress>
+          <adress class="lastSlide__contact">
+            <img src="images/my/51_3.png" alt="adress" class="lastSlide__contactIcon">
+            <div class="lastSlide__contactText">
+              <p class="mainP mainP_bold mainP_mt0 lastSlide__contactTitle">Телефон для связи:</p>
+              <a href="tel: +74995515551" class="mainP mainP_mt0 lastSlide__contactAdress">+7 (499)
+                551-5-551</a>
+            </div>
+          </adress>
+        </div>
+
+        <div class="slide__numof">
+          <p class="slide__cur">1</p>
+          <p class="slide__of">/ 2</p>
         </div>
       </section>
 

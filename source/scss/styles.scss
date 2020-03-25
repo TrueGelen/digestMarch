@@ -1969,18 +1969,17 @@ body, div, h1, h2, h3, h4, p, input {
   }
 }
 
+.slide47{
 
+  &__img{
+    width: 70%;
+  }
+}
 
+.slide49{
 
-.slide50{
-
-  &__content{
-    
-    @include from(769px){
-      &:hover{
-        z-index: 19;
-      }
-    }
+  &__img{
+    width: 90%;
   }
 }
 
