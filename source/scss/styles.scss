@@ -1507,7 +1507,7 @@ body, div, h1, h2, h3, h4, p, input {
 .slide2{
 
   &__left{
-    border: 1px solid red;
+    // border: 1px solid red;
     width: 60%;
 
     @include md(width, 80%);
