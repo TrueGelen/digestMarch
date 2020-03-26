@@ -158,7 +158,7 @@
         </div>
       </section>
       <!-- slide 5-->
-      <section class="slide template3 bg1_1 slide5" id="slideNumber5">
+      <section class="slide template3 bg1_1" id="slideNumber5">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
 
         <h2 class="template3__title mainTitle template3__title_right">INSTAGRAM ГОТОВИТСЯ ЗАПУСТИТЬ
@@ -168,7 +168,7 @@
 
         <div class="template3__content">
           <div class="template3__left text-align_center">
-            <img src="images/my/smm/2.png" alt="instagram" class="template3__img slide5__img">
+            <img src="images/my/smm/2.png" alt="instagram" class="template3__img">
           </div>
           <div class="template3__right">
             <p class="mainP mainP_mt0 mainP_bold">В Instagram может появиться новая функция видеоответа для
@@ -205,7 +205,7 @@
         </div>
       </section>
       <!-- slide 6 -->
-      <section class="slide template2 bg1_1" id="slideNumber6">
+      <section class="slide template2 bg1_1 slide6" id="slideNumber6">
         <!-- <img src="images/my/bg/leftArrow.png" alt="left Arrow" class="slide__leftArrow"> -->
         <img src="images/my/bg/rightArrow.png" alt="right Arrow" class="slide__rightArrow">
         <img src="images/my/bg/upperline.png" alt="upper line" class="slide__upperline">
@@ -227,7 +227,7 @@
               class="button button_desktop">Смотреть</a>
           </div>
           <div class="template2__right text-align_center">
-            <img src="images/my/smm/3.jpg" alt="Facebook" class="text-align_center">
+            <img src="images/my/smm/3.png" alt="Facebook" class="text-align_center slide6__img">
           </div>
         </div>
 
@@ -1858,7 +1858,7 @@
         <h2 class="template2__title mainTitle darkColor">НАСКОЛЬКО ПОЛЬЗОВАТЕЛИ ДОВЕРЯЮТ РЕЗУЛЬТАТАМ ПОИСКА GOOGLE
           (ПРОДОЛЖЕНИЕ)</h2>
 
-        <p class="mainP mainP_ml20 mainP_mt0 darkColor mainP_1366_fs14"><span class="listDot listDot_black"></span>
+        <p class="mainP mainP_ml20 mainP_mt25 darkColor mainP_1366_fs14"><span class="listDot listDot_black"></span>
           72% респондентов считают, что по запросам, связанным с медицинской тематикой, результаты в Google стали
           лучше
           и точнее. Особенно в этом убеждены молодые пользователи в возрасте 18–25 лет (75%);
