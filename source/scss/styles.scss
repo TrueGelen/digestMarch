@@ -452,6 +452,7 @@ body, div, h1, h2, h3, h4, p, input {
 
     //tempor
     @include sm-block{
+      background-color: #000;
       
       &_close1{
         transform: rotate(45deg) translateY(4px) !important;
