@@ -208,6 +208,28 @@ body, div, h1, h2, h3, h4, p, input {
 }
 
 //---components----
+.bgForMobMenu{
+  display: none;
+
+  @include sm-block{
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: calc(15px + 23px + 15px);
+    top: 0;
+    left: 0;
+    background-color: rgba(153, 180, 31, 1);
+    z-index: 1;
+    border-bottom: 1px solid springgreen;
+    transition: .3s;
+  }
+
+  &_opened{
+    height: 100% !important;
+    background-color: rgba(153, 180, 31, 1);
+  }
+}
+
 .menu{
   // display: none;
   position: fixed;
@@ -242,10 +264,19 @@ body, div, h1, h2, h3, h4, p, input {
 
   @include sm-block{
     height: 100%;
-    padding: 50px 0 0 0;
+    // padding: 50px 0 0 0;
     max-width: none;
-    width: 70vw;
-    transform: translate(140%, -50%);
+    // width: 70vw;
+    // transform: translate(140%, -50%);
+
+    //tempr
+    display: none;
+    width: 100vw;
+    // z-index: 100;
+    background-color: rgba(255, 255, 255, 0);
+    padding: 100px 0 0 0;
+    transform: translate(0%, -50%);
+
   }
 
   &__close{
@@ -378,8 +409,17 @@ body, div, h1, h2, h3, h4, p, input {
   }
 
   @include sm-block{
-    top: 5vw;
-    right: 5vw;
+    // top: 5vw;
+    // right: 5vw;
+
+    //tempor
+    top: 10px;
+    right: 10px;
+    width: 35px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: none;
+    z-index: 101;
   }
 
   background-color: $burgerColor;
@@ -389,7 +429,9 @@ body, div, h1, h2, h3, h4, p, input {
   0px 24px 32px rgba(0, 0, 0, 0.04);
 
   &:hover{
-    box-shadow: 0px 0px 10px 0px rgb(227, 227, 236);
+    @include from (960px){
+      box-shadow: 0px 0px 10px 0px rgb(227, 227, 236);
+    }    
   }
 
   &__lineBlock{
@@ -404,6 +446,13 @@ body, div, h1, h2, h3, h4, p, input {
     width: 24px;
     height: 2px;
     margin: 4px 0;
+
+    //tempor
+    @include sm-block{
+      
+      // width: 18px;
+      // height: 35px;
+    }
   }
 }
 
@@ -638,14 +687,17 @@ body, div, h1, h2, h3, h4, p, input {
 	}
 
 	@include sm-block{
-		// width: 12vw;
-		// height: 2.75vw;
 		width: 100px;
 		height: 23px;
 		z-index: 18;
 
-		top: calc(18px + 5vw);
-		left: 5vw;
+		// top: calc(18px + 5vw);
+    // left: 5vw;
+    
+
+    //tepor
+		top: 17px;
+    left: 15px;
 	}
 }
 
