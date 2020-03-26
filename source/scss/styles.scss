@@ -218,15 +218,16 @@ body, div, h1, h2, h3, h4, p, input {
     height: calc(15px + 23px + 15px);
     top: 0;
     left: 0;
-    background-color: rgba(153, 180, 31, 1);
+    background-color: rgba(153, 180, 31, 0.95);
     z-index: 15;
-    border-bottom: 1px solid springgreen;
+    // border-bottom: 1px solid springgreen;
+    box-shadow: 0px 0px 5px 2px gray;
     transition: .3s;
   }
 
   &_opened{
     height: 100% !important;
-    background-color: rgba(153, 180, 31, 1);
+    // background-color: rgba(153, 180, 31, 1) !important;
   }
 }
 
@@ -366,6 +367,7 @@ body, div, h1, h2, h3, h4, p, input {
       font-size: 4.5vw;
       line-height: 1;
       padding: 20px 0;
+      color: #000;
     }
 
     &:hover{
@@ -446,10 +448,22 @@ body, div, h1, h2, h3, h4, p, input {
     width: 24px;
     height: 2px;
     margin: 4px 0;
+    transition: .3s;
 
     //tempor
     @include sm-block{
       
+      &_close1{
+        transform: rotate(45deg) translateY(4px) !important;
+      }
+
+      &_close2{
+        display: none;
+      }
+
+      &_close3{
+        transform: rotate(-45deg) translateY(-4px) !important;
+      }
       // width: 18px;
       // height: 35px;
     }
