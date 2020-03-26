@@ -278,6 +278,7 @@ body, div, h1, h2, h3, h4, p, input {
     background-color: rgba(255, 255, 255, 0);
     padding: 100px 0 0 0;
     transform: translate(0%, -50%);
+    color: #fff;
 
   }
 
@@ -453,7 +454,6 @@ body, div, h1, h2, h3, h4, p, input {
 
     //tempor
     @include sm-block{
-      background-color: #000;
       
       &_close1{
         transform: rotate(45deg) translateY(4px) !important;
