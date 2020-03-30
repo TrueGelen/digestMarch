@@ -516,7 +516,7 @@
         <div class="template2__content">
           <div class="template2__left">
             <p class="mainP darkColor">В Директе стало возможно отключить показы на десктопах с помощью корректировки
-              ставок. Также появилась возможность разделить аудиторию со смартфонами на iOS и Android.Обновление
+              ставок. Также появилась возможность разделить аудиторию со смартфонами на iOS и Android. Обновление
               доступно в старом и новом интерфейсах Директа.
             </p>
             <p class="mainP mainP_mt25 darkColor">Нововведение позволит продвигать мобильные приложения или специальные
@@ -1736,7 +1736,7 @@
 
         <div class="template2__content">
           <div class="template2__left slide36__left">
-            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> вопреки
+            <p class="mainP mainP_ml20 mainP_mt10 darkColor"><span class="listDot listDot_black"></span> Вопреки
               расхожему мнению, блоки с ответами Featured Snippets в целом не влияют на CTR. Нередко считают, что
               пользователи получают из таких блоков всю необходимую информацию и не переходят на другие сайты.
               Исследование показало, что CTR для запросов с Featured Snippets был немного выше, чем для запросов без
@@ -1804,7 +1804,7 @@
             </p>
             <p class="mainP mainP_ml20 mainP_mt10 darkColor mainP_1366_fs14 mainP_1366_mt0"><span
                 class="listDot listDot_black"></span>
-              Последние
+              последние
               обновления алгоритмов были направлены на то, чтобы улучшить релевантность и точность информации в
               категории YMYL (your money, your life). Оказалось, не зря. 51% респондентов сообщили, что «очень часто»
               или «часто» принимают важные решения в финансовой сфере, основываясь на информации из поиска Google;
