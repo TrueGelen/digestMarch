@@ -723,7 +723,8 @@ body, div, h1, h2, h3, h4, p, input {
 	height: 5px;
 	border-radius: 50%;
 	background-color: white;
-  transform: translateY(-50%);
+	transform: translateY(-50%);
+	margin-right: 5px;
   
   &_black{
     background-color: #000;
