@@ -1956,7 +1956,47 @@ body, div, h1, h2, h3, h4, p, input {
       width: 85%;
     }
     
-  }
+	}
+	
+	&__continueBlock{
+		position: absolute;
+		display: flex;
+		align-items: center;
+		
+		right: 3.5%;
+		bottom: 4%;
+
+		@include md-block{
+      bottom: 4%;
+    }
+		
+		@include sm(bottom, 5%);
+
+    @include xs-block{
+      display: none;
+		}
+		
+		&:hover svg{
+			fill: #ffe4b4;
+		}
+
+		& > svg{
+			width: 20px;
+			height: 20px;
+			fill: #fff;
+			transition: .3s;
+
+			@include md-block{
+				width: 15px;
+				height: 15px;
+			}
+		}
+
+		p > {
+			font-family: sans-serif;
+			line-height: 1;
+		}
+	}
 }
 
 .slide38{
