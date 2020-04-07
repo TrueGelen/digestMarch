@@ -130,13 +130,13 @@ body, div, h1, h2, h3, h4, p, input {
 @include elg-block{
   @keyframes showClose{
     to{
-      transform: translate(-65px, -90px) rotate(-360deg);
+      transform: translateX(-65px) rotate(-360deg);
     }
   }
 
   @keyframes hideClose{
     to{
-      transform: translate(-65px, -90px) rotate(360deg);
+      transform: translateX(-65px) rotate(360deg);
     }
   }
 }
@@ -234,7 +234,8 @@ body, div, h1, h2, h3, h4, p, input {
 
   @include elg-block{
     top: 50%;
-    height: 755px;
+		max-height: 755px;
+		padding: 40px 0 0 0;
   }
 
   @include lg-block{
@@ -276,15 +277,20 @@ body, div, h1, h2, h3, h4, p, input {
     // text-align: center;
     cursor: pointer;
     // transition: .3s;
-    background-color: $burgerColor;
+		background-color: $burgerColor;
+		top: auto;
 
     @include elg-block{
-			transform: translate(-65px, -54px);
+			top: 10px;
+			transform: translateX(-65px);
 			width: 44px;
 			height: 44px;
     }
 
-    @include lg(transform, translate(-65px, -20px));
+    @include lg-block{
+			top: auto;
+			transform: translate(-65px, -20px);
+		}
 
     @include md(transform, translate(-65px, -10px));
 
