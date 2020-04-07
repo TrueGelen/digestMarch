@@ -130,13 +130,13 @@ body, div, h1, h2, h3, h4, p, input {
 @include elg-block{
   @keyframes showClose{
     to{
-      transform: translate(-65px, -50px) rotate(-360deg);
+      transform: translate(-65px, -90px) rotate(-360deg);
     }
   }
 
   @keyframes hideClose{
     to{
-      transform: translate(-65px, -50px) rotate(360deg);
+      transform: translate(-65px, -90px) rotate(360deg);
     }
   }
 }
@@ -144,13 +144,13 @@ body, div, h1, h2, h3, h4, p, input {
 @include lg-block{
   @keyframes showClose{
     to{
-      transform: translate(-65px, -20px) rotate(-360deg);
+      transform: translate(-65px, -25px) rotate(-360deg);
     }
   }
 
   @keyframes hideClose{
     to{
-      transform: translate(-65px, -20px) rotate(360deg);
+      transform: translate(-65px, -25px) rotate(360deg);
     }
   }
 }
@@ -158,27 +158,13 @@ body, div, h1, h2, h3, h4, p, input {
 @include md-block{
   @keyframes showClose{
     to{
-      transform: translate(-65px, -10px) rotate(-360deg);
+      transform: translate(-65px, -12px) rotate(-360deg);
     }
   }
 
   @keyframes hideClose{
     to{
-      transform: translate(-65px, -10px) rotate(360deg);
-    }
-  }
-}
-
-@include sm-block{
-  @keyframes showClose{
-    to{
-      transform: translate(-65px, -20px) rotate(-360deg);
-    }
-  }
-
-  @keyframes hideClose{
-    to{
-      transform: translate(-65px, -20px) rotate(360deg);
+      transform: translate(-65px, -12px) rotate(360deg);
     }
   }
 }
@@ -293,7 +279,9 @@ body, div, h1, h2, h3, h4, p, input {
     background-color: $burgerColor;
 
     @include elg-block{
-      transform: translate(-65px, -50px);
+			transform: translate(-65px, -54px);
+			width: 44px;
+			height: 44px;
     }
 
     @include lg(transform, translate(-65px, -20px));
@@ -405,7 +393,12 @@ body, div, h1, h2, h3, h4, p, input {
   top: 50%;
   // transform: translateY(-);
 
-  // @include elg(top, 12%);
+	// @include elg(top, 12%);
+	
+	@include elg-block{
+		width: 44px;
+		height: 44px;
+	}
   
   @include lg-block{
     top: 45%;
@@ -2094,6 +2087,14 @@ body, div, h1, h2, h3, h4, p, input {
 }
 
 .slide48{
+
+	&__left{
+		width: 44.5%;
+	}
+
+	&__right{
+
+	}
 
   &__img{
     width: 70%;
